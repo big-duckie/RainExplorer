@@ -1,0 +1,151 @@
+[
+  {
+    "id": 61,
+    "name": "Armor-Piercing Rounds",
+    "description": "Deal extra damage to bosses.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "20%",
+        "stack": "Linear",
+        "additional": "+20%"
+      }
+    ],
+    "lore": "Order: Armor-Piercing Rounds, 50mm\nTracking Number: 15***********\nEstimated Delivery: 3/07/2056\nShipping Method:  Standard\nShipping Address: Fort Margaret, Jonesworth System\nShipping Details: \n\nAlright, just to clarify, these rounds aren’t faulty. Heck, I’d say they’re better than the standard, but... that’s kind of the problem. I don’t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \n\nCould you guys look into this so we don’t like, violate any Geneva Conventions or anything?"
+  },
+  {
+    "id": 58,
+    "name": "Backup Magazine",
+    "description": "Add +1 charge of your Secondary Skill.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Charge",
+        "value": "1",
+        "stack": "Linear",
+        "additional": "+1"
+      }
+    ],
+    "lore": "Order: Ammo Magazine, Standard Ammunition (45mm Rounds)\nTracking Number: 05***********\nEstimated Delivery: 10/05/2056\nShipping Method:  Priority\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\nShipping Details: \n- Billed to: Captain [REDACTED]\n- Note from Sender:  You going on a hunting trip or something? I’ve never seen anyone order this much ammo before."
+  },
+  {
+    "id": 91,
+    "name": "Bison Steak",
+    "description": "Gain 25 max health.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Health",
+        "value": "25",
+        "stack": "Linear",
+        "additional": "25"
+      }
+    ],
+    "lore": "Order: Assorted Saturnian Bison Steak, 10lbs\nTracking Number: 31***********\nEstimated Delivery: 11/02/2056\nShipping Method:  Standard\nShipping Address: Sloppy Joe’s Deli and Catering, Manhattan, New York\nShipping Details: \n\nFOR: JOSEPH ******\nCC#: **** **** * ***\nACCT#: 102215\nQuality Saturnian Bison Meat [10lbs]\nTreated with special antibiotics to ensure exceptional growth, shelf life, and texture."
+  },
+  {
+    "id": 42,
+    "name": "Bundle of Fireworks",
+    "description": "Activating an interactable launches fireworks at nearby enemies.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Fireworks",
+        "value": "8",
+        "stack": "Linear",
+        "additional": "4"
+      }
+    ],
+    "lore": "\"Hey, happy anniversary!\n\nYou really thought I forgot?\n\nAh, I thought I was the dumb one in our relationship. C'mon T, of course not! Well, I wasn't going to let a little alien death planet ruin our night. Right? Shh, just watch. Just watch. It's okay. Just watch. You'll love it - you really will. Then we can go home.\n\nYou can keep your eyes closed. Just listen. Ah - here it comes! In five... four... three... two... ONE...!\""
+  },
+  {
+    "id": 16,
+    "name": "Bustling Fungus",
+    "description": "Heal all nearby allies after standing still for 1 second.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Health per Second",
+        "value": "4.5%",
+        "stack": "Linear",
+        "additional": "+2.25%"
+      },
+      {
+        "stat": "Radius",
+        "value": "3.5m",
+        "stack": "Linear",
+        "additional": "+1.5m"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cautious Slug",
+    "description": "Rapidly heal outside of danger.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Health Regen",
+        "value": "3",
+        "stack": "Linear",
+        "additional": "+3"
+      }
+    ],
+    "lore": "“One of the most crucial things to remember about having an animal companion is that your relationship is built on trust. Though humans are perceptive, we tend to be blinded by what we see – and we ignore the dangers that lurk beyond our vision. Animals, and other xenobiology, can sense things we can’t. \n\nSo always remember: if your companion warns you of danger in the dark, you had better well listen.”\n\n- Caring for your Pets, Volume III"
+  },
+  {
+    "id": 17,
+    "name": "Crowbar",
+    "description": "Deal bonus damage to enemies above 90% health.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "75%",
+        "stack": "Linear",
+        "additional": "+75%"
+      }
+    ],
+    "lore": "//--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --//\n\n“Hey, toss me a crowbar?”\n\nJesse walked over to the toolbox and rummaged around. Plucking a crowbar from the container, she went over to James.\n\n“Thanks,” he grunted, attempting to pry the chest open. Jesse sat herself on the table next to James, idly watching him work. “I swear, this had to be the one chest that CAN’T be paid open... Crash must have... broken the circuitry inside.” James mumbled to himself.\n\n“Yeah.” Jesse looked around, her eyes falling on a palette of chests that had been recovered from the recent expeditions. Sighing, she hopped to her feet. “I’m heading to the mess hall. Want anything?” \n\n“Yeah, how about a better crowbar? This thing is only a second edition.” James stretched, tossing the crowbar over his shoulder. Patting the still unopened chest, he chuckled. “It’s good, but to be honest… it’s getting a little old.”\n\nJesse laughed."
+  },
+  {
+    "id": 0,
+    "name": "Delicate Watch",
+    "description": "Deal bonus damage. Breaks at low health.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "20%",
+        "stack": "Linear",
+        "additional": "+20%"
+      }
+    ],
+    "lore": "The wind blows over the plains. Two soldiers trudge along on their routine patrol, filling their boredom with casual conversation. \"Hm. Hey, Shelly, have I ever showed you my new Patex?\" Quinton mused. Shelly shot him a quizzical look. \"Tell me you didn't bring a $75,000 watch with you on a dangerous expedition into unknown territories...\"\n\nWhirling around to face his partner, Quinton gave a hearty laugh. \"Why, yes I did!\" Rolling up his sleeve, a glint of gold revealed his collector's watch. The metal surface gleamed proudly, reflecting a ray of sunlight into the eyes of a hidden Lemurian. \"What's the point of going through trials and tribulations in the middle of nowhere if I can't STYLE all over my fellow soldiers!?\" Quinton laughed, pounding his fist to his chest. \"I'm going to rub it in your face SO HARD when that thing inevitably breaks,\" Shelly chuckled. Quinton scoffed. \"Oh, please. We've been along this route countless times, and nothing's happened. We're lucky to be stationed on a quiet sector of this hellhole, and I doubt our luck will run out any time soon.\"\n\nAs if on cue, the aggrivated Lemurian, annoyed by the glare, leapt from the bushes and shot a fireball. \"Woah!\" Shelly shouted, raising her gun and killing the beast. \"Hah... So much about a quiet, sector, huh?\" Shelly turned to her partner, who was doubled over on the ground. Shelly's face blanched.\n\n\"Oh no... Were you hit? We need to get you to a medic, fast...!\"\n\n\"No.\" Quinton's voice was small and full of grief. \"I'm perfectly fine, but...\" Quinton looked up, revealing his gleaming Patex, having taken the fireball dead-on, had been reduced to a mangled mess of twisted metal and smoking polish. \"L-Look what that BEAST did to my precious watch!\"\n\nFor a moment, all was quiet on the plains. Then, the silence was yet again broken by Shelly's laughter and Quinton's desperate pleading."
+  },
+  {
+    "id": 57,
+    "name": "Energy Drink",
+    "description": "Increase sprint speed by +25%.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Sprint Speed",
+        "value": "25%",
+        "stack": "Linear",
+        "additional": "+25%"
+      }
+    ],
+    "lore": "Order: NR-G Sports Soda (400)\nTracking Number: 49******\nEstimated Delivery: 03/12/2056\nShipping Method:  Standard\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\nShipping Details:\n\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \n\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\n\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?"
+  }
+]
