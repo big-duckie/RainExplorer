@@ -63,7 +63,7 @@ export default defineComponent({
       if (Number(this.sortOrder) == Sort.Default) return this.items;
 
       return this.items.map(item => item).sort((itemA: ItemClass, itemB: ItemClass) => {
-        if (Number(this.sortOrder) == Sort.Alphabetic) return itemA.slug.localeCompare(itemB.slug);
+        if (Number(this.sortOrder) == Sort.Alphabetic) return itemA.slug().localeCompare(itemB.slug());
         return (itemA.id > itemB.id) ? 1 : (itemA.id < itemB.id) ? -1 : 0;
       });
     },
@@ -74,7 +74,7 @@ export default defineComponent({
 
       return this.sortedItems.filter((item: ItemClass) => {
         return (this.rarityFilter == Rarity.All || item.rarity == this.rarityFilter) && (this.categoryFilter == Category.All || item.categories.indexOf(this.categoryFilter) != -1) &&
-            search.length == 0 || search.some((term: string) => normalizeString(item.slug).includes(term));
+            search.length == 0 || search.some((term: string) => normalizeString(item.name).includes(term));
       })
     },
   },
