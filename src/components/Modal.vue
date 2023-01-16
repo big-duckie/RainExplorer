@@ -4,7 +4,7 @@ dialog(:open="open", @click="event => {if (event.target.tagName === \"DIALOG\") 
     a(aria-label="Wiki", class="wiki", :href="wikiLink", target="_blank")
     a(aria-label="Close", class="close", href="#", @click="$emit('close')")
     aside
-      img(:src="`/src/assets/images/items/${slug}.png`")
+      img(:src="imageURL")
       .headings
         h2 {{item.name}}
         h3 {{item.description}}
@@ -34,6 +34,9 @@ export default defineComponent({
     },
     slug(): string {
       return slugify(this.item.name, {lower: true});
+    },
+    imageURL(): string {
+      return new URL(`/src/assets/images/items/${this.slug}.png`, import.meta.url).href;
     }
   },
   mounted() {
