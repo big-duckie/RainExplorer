@@ -22,3 +22,8 @@ export enum Sort {
     Alphabetic,
     ID
 }
+
+export enum DLC {
+    Base,
+    Survivors_Of_The_Void
+}
