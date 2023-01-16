@@ -8,7 +8,8 @@ dialog(:open="open", @click="event => {if (event.target.tagName === \"DIALOG\") 
       .headings
         h2 {{item.name}}
         h3 {{item.description}}
-      p More information about what this item does.
+      //strong(v-if="item.info_markdown") Info
+      div(v-html="item.info_markdown")
 </template>
 
 <script lang="ts">
@@ -32,11 +33,8 @@ export default defineComponent({
     wikiLink(): string {
       return `https://riskofrain2.fandom.com/wiki/${this.item.name}`;
     },
-    slug(): string {
-      return slugify(this.item.name, {lower: true});
-    },
     imageURL(): string {
-      return new URL(`/src/assets/images/items/${this.slug}.png`, import.meta.url).href;
+      return new URL(`/src/assets/images/items/${this.item.slug}.png`, import.meta.url).href;
     }
   },
   mounted() {
