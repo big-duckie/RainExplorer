@@ -5,14 +5,13 @@
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
+    "build-gh": "run-p type-check build-only-gh",
     "preview": "vite preview",
     "build-only": "vite build",
+    "build-only-gh": "vite build --base=/RainExplorer/",
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "pug": "^3.0.2",
-    "sass": "^1.57.1",
-    "slugify": "^1.6.5",
     "vue": "^3.2.45"
   },
   "devDependencies": {
@@ -22,6 +21,9 @@
     "npm-run-all": "^4.1.5",
     "typescript": "~4.7.4",
     "vite": "^4.0.0",
-    "vue-tsc": "^1.0.12"
+    "vue-tsc": "^1.0.12",
+    "pug": "^3.0.2",
+    "sass": "^1.57.1",
+    "slugify": "^1.6.5"
   }
 }
