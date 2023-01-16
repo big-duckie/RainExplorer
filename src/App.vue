@@ -13,7 +13,7 @@ header.container
         each val, index in ["All Categories", "Damage", "Healing", "Scrap", "Utility"]
           option(value=index)= val
       select(v-model.number="sortOrder")
-        each val, index in ["Default", "A-Z", "ID"]
+        each val, index in ["Default", "A-Z"]
           option(value=index)= val
 
 main.container
@@ -34,14 +34,23 @@ ThemeSwitcher
 <script lang="ts">
 import {defineComponent} from "vue";
 import {Category, Rarity, Sort} from "@/assets/scripts/enums";
-import type {ItemClass} from "@/assets/scripts/classes";
+import {ItemClass} from "@/assets/scripts/classes";
 import items from "@/items.json"
 import Item from "@/components/Item.vue";
 import Modal from "@/components/Modal.vue";
 import ThemeSwitcher from "@/components/ThemeSwitcher.vue";
+import {plainToInstance} from "class-transformer";
 
 function normalizeString(str: string): string {
   return str.normalize("NFD").toLowerCase();
+}
+
+function convertItems(): Array<ItemClass> {
+  let arr: Array<ItemClass> = [];
+  items.forEach((item) => {
+    arr.push(plainToInstance(ItemClass, item))
+  })
+  return arr
 }
 
 export default defineComponent({
@@ -49,7 +58,7 @@ export default defineComponent({
   data() {
     return {
       title: "Rain Explorer",
-      items: (items as Array<ItemClass>),
+      items: convertItems(),
       focusedItem: items[0],
       modalActive: false,
       search: "",
@@ -61,9 +70,8 @@ export default defineComponent({
   computed: {
     sortedItems(): Array<ItemClass> {
       if (Number(this.sortOrder) == Sort.Default) return this.items;
-
       return this.items.map(item => item).sort((itemA: ItemClass, itemB: ItemClass) => {
-        if (Number(this.sortOrder) == Sort.Alphabetic) return itemA.slug().localeCompare(itemB.slug());
+        if (Number(this.sortOrder) == Sort.Alphabetic) return itemA.slug.localeCompare(itemB.slug);
         return (itemA.id > itemB.id) ? 1 : (itemA.id < itemB.id) ? -1 : 0;
       });
     },
@@ -109,7 +117,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
+  gap: 16px;
 }
 
 footer {
@@ -127,5 +135,4 @@ footer {
     }
   }
 }
-
 </style>
