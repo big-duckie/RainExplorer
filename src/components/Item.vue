@@ -20,7 +20,7 @@ export default defineComponent({
   },
   computed: {
     slug(): string {
-      return slugify(this.item.name, {lower: true});
+      return slugify(this.item.name, {lower: true, remove: /[*+~.()'"!:@,]/g});
     }
   }
 });

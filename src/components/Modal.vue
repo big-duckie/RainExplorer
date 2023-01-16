@@ -1,7 +1,7 @@
 <template lang="pug">
 dialog(:open="open", @click="event => {if (event.target.tagName === \"DIALOG\") $emit(\"close\");}")
   article
-    a(aria-label="Wiki", class="wiki", :href="wikiLink", title="View item on Risk of Rain 2 Wiki", target="_blank")
+    a(aria-label="Wiki", class="wiki", :href="wikiLink", target="_blank")
     a(aria-label="Close", class="close", href="#", @click="$emit('close')")
     aside
       img(:src="`/src/assets/images/items/${slug}.png`")
