@@ -24,8 +24,8 @@ Modal(:item="focusedItem", :open="modalActive", @close="modalActive = false")
 
 footer.container
   .grid
-    small Built by Big Duckie
-    div
+    small
+      a(href="https://github.com/big-duckie/RainExplorer") GitHub
     small Assets are property of Hopoo Games
 
 ThemeSwitcher
