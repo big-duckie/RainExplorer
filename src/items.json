@@ -4,7 +4,9 @@
     "name": "Armor-Piercing Rounds",
     "description": "Deal extra damage to bosses.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Damage",
@@ -21,7 +23,9 @@
     "name": "Backup Magazine",
     "description": "Add +1 charge of your Secondary Skill.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Charge",
@@ -38,7 +42,9 @@
     "name": "Bison Steak",
     "description": "Gain 25 max health.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Health",
@@ -55,7 +61,9 @@
     "name": "Bundle of Fireworks",
     "description": "Activating an interactable launches fireworks at nearby enemies.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Fireworks",
@@ -72,7 +80,9 @@
     "name": "Bustling Fungus",
     "description": "Heal all nearby allies after standing still for 1 second.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Health per Second",
@@ -95,7 +105,9 @@
     "name": "Cautious Slug",
     "description": "Rapidly heal outside of danger.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Health Regen",
@@ -112,7 +124,9 @@
     "name": "Crowbar",
     "description": "Deal bonus damage to enemies above 90% health.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Damage",
@@ -129,7 +143,9 @@
     "name": "Delicate Watch",
     "description": "Deal bonus damage. Breaks at low health.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Damage",
@@ -146,7 +162,9 @@
     "name": "Energy Drink",
     "description": "Increase sprint speed by +25%.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Sprint Speed",
@@ -163,7 +181,9 @@
     "name": "Focus Crystal",
     "description": "Deal bonus damage to nearby enemies.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Damage",
@@ -180,7 +200,9 @@
     "name": "Gasoline",
     "description": "Killing an enemy ignites other nearby enemies.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Damage",
@@ -203,7 +225,9 @@
     "name": "Item Scrap, White",
     "description": "Does nothing. Prioritized when used with 3D Printers.",
     "rarity": 1,
-    "categories": [3],
+    "categories": [
+      3
+    ],
     "stats": [],
     "lore": "“While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”\n\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing"
   },
@@ -212,7 +236,9 @@
     "name": "Lens-Maker's Glasses",
     "description": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Critical Chance",
@@ -229,7 +255,9 @@
     "name": "Medkit",
     "description": "Receive a delayed heal after taking damage.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Heal",
@@ -246,7 +274,10 @@
     "name": "Mocha",
     "description": "Slightly increase attack speed and movement speed.",
     "rarity": 1,
-    "categories": [1, 2],
+    "categories": [
+      1,
+      2
+    ],
     "stats": [
       {
         "stat": "Attack Speed",
@@ -269,7 +300,9 @@
     "name": "Monster Tooth",
     "description": "Drop a healing orb on kill.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Health per Orb",
@@ -286,7 +319,9 @@
     "name": "Oddly-shaped Opal",
     "description": "Reduce damage the first time you are hit.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Armor",
@@ -303,7 +338,9 @@
     "name": "Paul's Goat Hoof",
     "description": "Increase movement speed.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Movement Speed",
@@ -320,7 +357,9 @@
     "name": "Personal Shield Generator",
     "description": "Gain a recharging shield.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Shield",
@@ -337,7 +376,9 @@
     "name": "Power Elixir",
     "description": "Receive an instant heal at low health. Consumed on use.",
     "rarity": 1,
-    "categories": [2],
+    "categories": [
+      2
+    ],
     "stats": [
       {
         "stat": "Heal",
@@ -354,7 +395,9 @@
     "name": "Repulsion Armor Plate",
     "description": "Receive flat damage reduction from all attacks.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Damage Reduction",
@@ -371,7 +414,9 @@
     "name": "Roll of Pennies",
     "description": "Gain gold on taking damage.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Base Gold",
@@ -388,7 +433,9 @@
     "name": "Rusted Key",
     "description": "Gain access to a Rusty Lockbox that contains a powerful item.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [],
     "dlc": 0,
     "lore": "Order: Key\nTracking Number: 12******\nEstimated Delivery: 01/21/2056\nShipping Method: Standard\nShipping Address: |||||||, Druid Hills, Earth\nShipping Details:\n\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\n\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this."
@@ -398,7 +445,9 @@
     "name": "Soldier's Syringe",
     "description": "Increase attack speed.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Attack Speed",
@@ -415,7 +464,9 @@
     "name": "Sticky Bomb",
     "description": "Chance on hit to attach a bomb to enemies.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Chance",
@@ -432,7 +483,9 @@
     "name": "Stun Grenade",
     "description": "Chance to stun on hit.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Chance",
@@ -449,7 +502,10 @@
     "name": "Topaz Brooch",
     "description": "Gain a temporary barrier on kill.",
     "rarity": 1,
-    "categories": [2, 4],
+    "categories": [
+      2,
+      4
+    ],
     "stats": [
       {
         "stat": "Barrier",
@@ -466,7 +522,9 @@
     "name": "Tougher Times",
     "description": "Chance to block incoming damage.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Block Chance",
@@ -483,7 +541,9 @@
     "name": "Tri-Tip Dagger",
     "description": "Gain +10% chance to bleed enemies on hit.",
     "rarity": 1,
-    "categories": [1],
+    "categories": [
+      1
+    ],
     "stats": [
       {
         "stat": "Chance to Bleed",
@@ -500,7 +560,9 @@
     "name": "Warbanner",
     "description": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
     "rarity": 1,
-    "categories": [4],
+    "categories": [
+      4
+    ],
     "stats": [
       {
         "stat": "Radius",
@@ -511,5 +573,1692 @@
     ],
     "dlc": 0,
     "lore": "Heavy losses were expected – after all, the invaders were as cunning as they were deadly. \n\nThe dust had at last settled. The Golems had returned to the earth, and the Lemurians had returned to their tunnels. It was a long and grueling battle, but they had won. The invaders had been purged.\n\nThe only proof of their last stand was a single banner, fluttering in the wind, flying over a mountain of corpses."
+  },
+  {
+    "id": 3,
+    "name": "AtG Missile Mk. 1",
+    "description": "Chance to fire a missile.",
+    "rarity": 2,
+    "categories": [
+      1
+    ],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "300%",
+        "stack": "Linear",
+        "additional": "+300%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Fixing a spare bayonet onto his shotgun, he glanced at the horizon. The thundering of footsteps big and small was growing louder and louder – they were nearly upon him. He went over his kit one last time.\n\nFive bayonets. Twenty three packs of incendiary explosives. Fifteen magazines of armor-piercing ammunition. Thirty three sticky bombs. Four tear-gas grenades, and so on.\n\nAnd his favorite – two shoulder-mounted missile launchers, loaded with six AtG Viper Missiles. Heat seeking, detonation power of 15 pounds of TNT per missile. Light-weight, and the best part – automatic firing mechanism. He initially favored a more analog approach to his weapons, but the thing had grown on him.\n\nTurning to face the oncoming mob, he loaded his shotgun. The adrenaline started pumping.\n\n“Bring it on.”"
+  },
+  {
+    "id": 37,
+    "name": "Bandolier",
+    "description": "Chance on kill to drop an ammo pack that resets all skill cooldowns.",
+    "rarity": 2,
+    "categories": [
+      4
+    ],
+    "stats": [
+      {
+        "stat": "Chance",
+        "value": "18%",
+        "stack": "Special",
+        "additional": "+10%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Bandolier\nTracking Number: 112*****\nEstimated Delivery: 04/19/2056\nShipping Method: Standard\nShipping Address: 3950 Sunsell Ln, Tri-City, Earth\nShipping Details:\n\nThank you for your participation in the auction! We’ve included a short history on the item, as well as documents to verify its authenticity.\n\nThis is the famous bandolier worn by B. Grundy himself. He and his pals used to raise terror all over the map of the new territories. Their favorite activity was to tie up people they didn’t like and drag them behind their horses – Grundy clearly had a sweet spot for the old days.\n\nThe sling carries an impressive assortment of ammunition - Grundy himself carried many different guns. It was rumored that they held out for 3 whole days and nights before their weapons ran dry."
+  },
+  {
+    "id": 46,
+    "name": "Berzerker's Pauldron",
+    "description": "Enter a frenzy after killing 4 enemies in quick succession.",
+    "rarity": 2,
+    "categories": [
+      1
+    ],
+    "stats": [
+      {
+        "stat": "Frenzy Duration",
+        "value": "6s",
+        "stack": "Linear",
+        "additional": "+4s"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Antique Pauldron\nTracking Number: 58***********\nEstimated Delivery: 04/05/2056\nShipping Method: Priority\nShipping Address: Jungle VII, Museum of 2019, Earth\nShipping Details: \n\nAnother antique for the collection. This bad boy was found on the battlefield where much of the War was fought. The excavation site was littered with bones, all surrounding the remains of one rebel soldier, who was carrying this artifact. According to hearsay and rumors, rebel soldiers wearing pauldrons much like this one would enter trances on the battlefield. Time would slow down, and all they could see was the enemy.\n\nOf course, it’s just speculation, but… There were a lot of bodies surrounding this thing’s old owner. Be careful, OK?"
+  },
+  {
+    "id": 65,
+    "name": "Chronobauble",
+    "description": "Slow enemies on hit.",
+    "rarity": 2,
+    "categories": [
+      4
+    ],
+    "stats": [
+      {
+        "stat": "Slow Duration",
+        "value": "2s",
+        "stack": "Linear",
+        "additional": "+2s"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Chronobauble\nTracking Number: 99******\nEstimated Delivery: 03/03/2066\nShipping Method: Priority\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\nShipping Details:\n\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\n\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\n\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!"
+  },
+  {
+    "id": 104,
+    "name": "Death Mark",
+    "description": "Enemies with 4 or more debuffs are marked for death, taking bonus damage.",
+    "rarity": 2,
+    "categories": [
+      1
+    ],
+    "stats": [
+      {
+        "stat": "Debuff Duration",
+        "value": "7s",
+        "stack": "Linear",
+        "additional": "+7s"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: “Death Mark”\nTracking Number: 66******\nEstimated Delivery: 02\\22\\2056\\\nShipping Method: High Priority\nShipping Address: 421 Lane, Lab [72], Mars\nShipping Details:\n\nEveryone said that I was crazy to search for lost artifacts on Mars. Idiots. There hasn’t been any proof of a previous civilization - but I’ve always trusted my gut. This skull proves that I’m right - that something did exist here before.\n\nThat smug professor at the university... always disparaging my research. I loved seeing the look on his face as I shook his hand. Idiot. Karma must have been working overtime - I heard he fell ill shortly after. I suppose my success was just too much for him.\n\n...In fact, everyone I’ve shown seems to not be returning my calls. Are they avoiding me? Are they scared this news would shake up their academic communities? Too proud to admit I’m right?\n\nI’ll find someone who will give me the recognition I deserve. I’ve worked too hard and done too much. If I don’t keep going, I think I might just die."
+  },
+  {
+    "id": 30,
+    "name": "Fuel Cell",
+    "description": "Hold an additional equipment charge. Reduce equipment cooldown.",
+    "rarity": 2,
+    "categories": [
+      4
+    ],
+    "stats": [
+      {
+        "stat": "Charges",
+        "value": "1",
+        "stack": "Linear",
+        "additional": "+1"
+      },
+      {
+        "stat": "Cooldown Reduction",
+        "value": "15%",
+        "stack": "Exponential",
+        "additional": "+15%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "\"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later.\"\n-Brief History of Interplanetary Advances, Vol.2"
+  },
+  {
+    "id": 94,
+    "name": "Ghor's Tome",
+    "description": "Chance on kill to drop a treasure.",
+    "rarity": 2,
+    "categories": [
+      4
+    ],
+    "stats": [
+      {
+        "stat": "Drop Chance",
+        "value": "4%",
+        "stack": "Linear",
+        "additional": "+4%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: “Ghor’s Tome”\nTracking Number: 19******\nEstimated Delivery: 07/07/2056\nShipping Method: Priority\nShipping Address: 99th Floor, Crumbling Tower, Venus\nShipping Details:\n\nAncient secrets... transmutation... homunculi... alchemy. Nothing more than nonsense - pursuits of rightly intentioned but grossly misled minds. Or so I thought. This item's... unexpected physical properties are reason enough to stay my immediate dismissal.\n\nStrange fortune led this book to me, and stranger knowledge still fills the pages. Chilling, even. It concludes, in chapter eight, that even iron can become gold - but only through a ritual of intense bloodletting, a thought disturbing enough without considering the bountiful riches that accompanied the estate.\n\nThe takeaway, above all else, seems to be that you cannot get something from nothing; even the very paper of the tome turned to ash as I tried to make photocopies. Whatever was on the first two pages is lost forever. I need transcriptions of the rest by hand, and I know you take pride in your precision. \n\nAnd more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose."
+  },
+  {
+    "id": 26,
+    "name": "Harvester's Scythe",
+    "description": "'Critical Strikes' heal you.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“I’m not going nowhere. What I do is important, and no plague is going to stop me from getting that done. City folk are all up in a tizzy over this and that, scared that ya’ll will pass without doing some crazy goals you set for yourself. \n\nBut me, I’m not afraid of death. Suffering is just another part of life, and like labor, I can do it myself. To death, I say: I don’t need your damn help.”\n\n- Unnamed Farmer, Tragedy of Mercury: A History"
+  },
+  {
+    "id": -1,
+    "name": "Hunter's Harpoon",
+    "description": "Killing an enemy gives you a burst of movement speed.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 1,
+    "lore": "Order: Harpoon\nTracking Number: 01******\nEstimated Delivery: 07/21/2058\nShipping Method: Priority\nShipping Address: Saint Mary's Port, Keelhaul Key\nShipping Details:\nThey say that you can spear two catches with one throw of this ol' lassie. And hey, if you can't, if you're fast enough, nobody will be able to tell the difference! Wahahaha!"
+  },
+  {
+    "id": -1,
+    "name": "Ignition Tank",
+    "description": "Your ignite effects deal quadruple damage.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 1,
+    "lore": "Order: 128 oz. Gas Tank\nTracking Number: 33******\nEstimated Delivery: 05/8/2058\nShipping Method: Priority\nShipping Address: Death Valley, Earth\nShipping Details: Contains a cocktail of the galaxy's most flammable substances. Y'know, methane, ethylene, butane... A single spark would be more than enough to set this baby off!\n\nEr, hold that thought. It spontaneously combusted while I was writing this. I'll get you a new one in case it burns during transit, this happens a lot!"
+  },
+  {
+    "id": 33,
+    "name": "Infusion",
+    "description": "Killing an enemy permanently increases your maximum health, up to 100.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Infusion\nTracking Number: 768******\nEstimated Delivery: 02/8/2056\nShipping Method: Priority/Biological\nShipping Address: Rage Valley, Fleet Hanger, Mars\n\nContains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones! \n\nYou can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!"
+  },
+  {
+    "id": -1,
+    "name": "Item Scrap, Green",
+    "description": "Does nothing. Prioritized when used with 3D Printers.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”\n\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing"
+  },
+  {
+    "id": 64,
+    "name": "Kjaro's Band",
+    "description": "High damage hits also blasts enemies with a runic flame tornado. Recharges over time.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Should passion die down,\nShould light be extinguished,\nWill you bring me patience?\nWill you die with me?\"\n\n-The Syzygy of Io and Europa"
+  },
+  {
+    "id": 13,
+    "name": "Leeching Seed",
+    "description": "Dealing damage heals you.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "It was a crisp evening - and things were looking up. The botanist began walking towards the Plant Biology Complex to check on several alien plants that had been recovered from the week before.\n\nAnother worker was already in the complex, busy at work.\n\n“Hey.” “Oh, hello!” The worker greeted her enthusiastically. He was carrying several bags of fertilizer, and she gave him a quizzical look. “You need any help with those?” She said, gathering her clipboard for her check.\n\n“Oh no, I’m alright. It’s a good workout, actually,” he said. As they walked, the botanist couldn’t help but wonder what kind of job would require THAT much fertilizer.\n\nAs the door to the greenhouse whirred open, she got her answer – roots scaling the height of the greenhouse and snaking along the ceiling, even invading the containers of other specimens. “What the hell!?” She cried, her jaw slack. And then she noticed the other plants. \n\nEvery other plant in the greenhouse had withered – with an incriminating root leading back to the overgrowth that the worker was now feeding fertilizer. The botanist was speechless. “What happened...? What... what is that...?” She stammered. The worker turned to her and grinned.\n\n“One of the species we got in the last expedition. He demands a lot of nutrients - it took me so long to get him to even sprout. I was wracking my brain, trying every trick in the book. And every other specimen seemed to be growing fine, so I figured, hey, why not share some of that? And look!”\n\nSpreading his arms, the worker marveled at the gallery of dead plants. Dropping her clipboard, the botanist’s stomach sank. Things were no longer looking up."
+  },
+  {
+    "id": 86,
+    "name": "Lepton Daisy",
+    "description": "Periodically release a healing nova during the Teleporter event and 'Holdout Zones' such as the Void Fields.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Lepton Daisy\nTracking Number: 23******\nEstimated Delivery: 07/23/2056\nShipping Method: Standard\nShipping Address: Duck Lake, Orlandus, Earth \nShipping Details:\n\nDear Stalnia,\n\nI haven't been able to visit for a while, so I hope you and Libra are doing well. I heard that you're clearing the land there and want to spruce things up. I'm sending this flower I picked in the Carbon Fields of Electron Valley. The terraformers there told me that, over time, landscaping efforts were improved by the organic-band signals sent out by this plant. I've been helping them build a new world.\n\nJust make sure to put it up high enough that Mushka can't get to it. I'm not sure what effect it'll have on dogs..."
+  },
+  {
+    "id": 78,
+    "name": "Old Guillotine",
+    "description": "Instantly kill low health Elite monsters.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Old Guillotine\nTracking Number: 782*****\nEstimated Delivery: 04/29/2056\nShipping Method: Standard\nShipping Address: Warehouse 36, Anklar, Primas V \nShipping Details:\n\nEveryone is still operating on adrenaline here. We finally overthrew our oppressors and have taken back Primas V! I know some of the overlords will attempt to buy their way onto a stealth transport, but that’s going to be quite difficult due to their epic economic blunder.\n\nWe don’t just want blood for all the injustices we’ve suffered at their hands. We want to send a message to would-be sympathizers. This old guillotine will serve both as an execution method and a symbol to strike fear into their hearts wherever they might be hiding.\n\nPrimas V is alive!"
+  },
+  {
+    "id": 25,
+    "name": "Old War Stealthkit",
+    "description": "Turn invisible at low health.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order:  Misc. OW Artifacts (47)\nTracking Number: 01******\nEstimated Delivery: 08/13/2056\nShipping Method: Priority\nShipping Address: National Old War Museum, New Orleans, Earth\nShipping Details:\n\nWe've managed to round up all the local Old War artifacts that we could find. A lot of interesting things here: rifles, rations, pamphlets. We even found a prototype stealthkit in fantastic condition; that could be a great centerpiece for your exhibit.\n\nHowever, a slight issue: in transit, the truck hit a pothole and jostled all the ship. It seemed to have actually activated the stealth drive - some strange short-circuit - and our team can't actually confirm the location of the stealthkit. It should be in one of the boxes - we will be expecting the commission to include the stealthkit."
+  },
+  {
+    "id": 19,
+    "name": "Predatory Instincts",
+    "description": "'Critical Strikes' increase attack speed. Stacks 3 times.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.\n\nA demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes."
+  },
+  {
+    "id": 90,
+    "name": "Razorwire",
+    "description": "Retaliate in a burst of razors on taking damage.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Custom-made Barbed Wire, 200m\nTracking Number: 05***********\nEstimated Delivery: 02/01/2056\nShipping Method:  Priority\nShipping Address: PO Box 23-5B, Fort Blondershire, Colony of Man\nShipping Details: \n\nYou were right to come to me for this PREMIUM barbed wire. The other retail models won’t get the job done like I do. Just cutting up invaders isn’t enough – no sir - I built in a secret defense mechanism!\n\nBy cramming as many razors, exacto knives, and any other blade I could find into this thing, this beauty is a powder keg just WAITING to burst! This is my greatest work yet. \n\nIf I don’t get good reviews, expect to hear from my lawyers!"
+  },
+  {
+    "id": 21,
+    "name": "Red Whip",
+    "description": "Move fast out of combat.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“...going to 594 South River, Io. Check. One Whip, Red, Priority shipping. Going to... to, um... Oh, wow...”\n\n-Signal echoes, UES Contact Light"
+  },
+  {
+    "id": -1,
+    "name": "Regenerating Scrap",
+    "description": "Prioritized when used with Uncommon 3D Printers. Usable once per stage.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"Hey, Joe, how's the work in engineering?\"\n\n\"Terrible. We have a shipment of this... weird, prototype material. Some kind of metal? They want us to make stuff out of it, which isn't too bad. Thing is, no matter how much I take, there always seems to be more. Did you know I made twenty-five hundred units of .300 caliber rounds from a 10 kilo crate of metal?\"\n\n\"How much!?\"\n\n\"Right!? I feel like I'm losing my mind. It's not even half-way empty. Hell, I bet there's more in there than when I started!\"\n\n\"Well, at least you won't have to worry about running out...\""
+  },
+  {
+    "id": -1,
+    "name": "Rose Buckler",
+    "description": "Reduce incoming damage while sprinting.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Please let me know when you get this. I foun...\nTracking Number: 53******\nEstimated Delivery: 05/22/2056\nShipping Method: Priority\nShipping Address: Research Center, Polarity Zone, Neptune\nShipping Details:\n\nBTW Mama should have sent over another package as well. Let me know when you get it.\n\nPapa"
+  },
+  {
+    "id": 63,
+    "name": "Runald's Band",
+    "description": "High damage hits also blasts enemies with runic ice. Recharges over time.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Should memories be lost,\nShould oceans be clouded,\nWill you bring me fervor?\nWill you die with me?\"\n\n-The Syzygy of Io and Europa"
+  },
+  {
+    "id": -1,
+    "name": "Shipping Request Form",
+    "description": "Get a delivery each stage that contains powerful items.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "This is an automated message. If you do not have reason to receive this message, please contact UES Customer Support.\n\nDear {customerFirstName} {customerLastName},\n\nWe regret to inform you that your delivery of {package} has been canceled. We at UES understand the inconvenience this has caused you, and have decided to reimburse you with a UES Shipping Request Form. When redeemed, we at UES will waive all shipping fees and upgrade your shipment to expedited shipping at no extra cost, allowing you to receive your package as quickly and smoothly as possible. We once again apologize for the inconvenience.\n\nThe reason your package was canceled is due to the shipping vessel it was on, UES Contact Light, has mysteriously disappeared in uncharted territories and we have not received communications since. If you or a loved one were aboard the Contact Light, please contact your local authorities if you have not done so already. Please let it be known that all of our efforts are going towards locating the Contact Light and her crew and returning them safely home with UES-ensured comfort and security.\n\nWe thank you for your continued support,\n\n{SysAdmin}\n\nIf you would like to join our reading list, reply with subject headline: UES.RL_JOIN"
+  },
+  {
+    "id": -1,
+    "name": "Shuriken",
+    "description": "Activating your Primary skill also throws a shuriken. Recharges over time.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Aluminum Throwing Star\nTracking Number: 77******\nEstimated Delivery: 05/15/2060\nShipping Method: Priority\nShipping Address: Sensei Dareth's Mojo Dojo, Earth\nShipping Details:\n\nFor the last time, shouting \"hiyahh!\" when throwing a shuriken will NOT improve your results. It just gives your position away... You know, the exact OPPOSITE of what a ninja wants.\n\nHowever, you can say \"hiyahh!\" in your head. (I do too.)"
+  },
+  {
+    "id": 103,
+    "name": "Squid Polyp",
+    "description": "Activating an interactable summons a Squid Turret nearby.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"It’s disgusting.\"\n\n\"It’s only mildly disturbing. You’re overreacting.\"\n\n\"Well, when it turns on us, don’t come crying to me.\"\n\n\"It seems like it wants to only help us, so I’d rather have it close in case that dangerous looking group comes back around.\"\n\n\"I swear there’s more than one. It’s everywhere I look: the storage locker, the food dispenser, the cargo containers, everywhere!\"\n\n\"You’re exaggerating, it’s probably just following you. Snap out of it!\"\n\n\"Ow! Did you just smack me!?\"\n\n\"You were acting hysterical. I had to… Hey, why is that thing looking at me now?\""
+  },
+  {
+    "id": 11,
+    "name": "Ukulele",
+    "description": "...and his music was electric.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM RALLYPOINT [Redacted] --//\n\nThe planet was unforgiving, taking more and more with each passing day. Lives and limbs were lost, and the medical tent grew increasingly busy.\n\nJans was unfortunate enough to walk right into a group of Lemurians during a routine check around the rallypoint perimeter. He was lucky enough to escape with his life, but the Lemurians wounded his leg before backup arrived. \n\nJans leaned back in his cot. He strummed the strings on his ukulele – which he had picked up from an earlier expedition – as he contemplated his thoughts. Nothing too complex, but just a simple tune that he had picked up back when he took lessons as a child. Unbeknownst to him, one by one, he had gathered himself an audience. The gentle melodies of Jans’ ukulele brought a rare comfort to the pained and labored patients, and for the first time since admittance, they felt like they could smile.\n\nLife in the medical tent was never something anybody could look forward to. Death, irreversible injuries, and a choking atmosphere surrounded them. But for a brief moment… the lives of those patients became that much brighter. Jans stopped, surveying the crowd intently watching him. \n\nHe laughed, readying himself for an encore. Maybe things wouldn’t be so bad after all."
+  },
+  {
+    "id": 79,
+    "name": "War Horn",
+    "description": "Activating your Equipment gives you a burst of attack speed.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"The War of 2019, while lasting only a brief year, was the bloodiest conflict in human history. As the war got deadlier throughout the year, many rebel groups began to rely on tradition and history for inspiration. \n\nThe War Horn, pictured above was a favorite of the Northern Fist Rebellion for both its inspirational and tactical uses.\"\n\n-Exhibit at The National WW19 Museum"
+  },
+  {
+    "id": 76,
+    "name": "Wax Quail",
+    "description": "Jumping while sprinting boosts you forward.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Wax Quail\nTracking Number: 15******\nEstimated Delivery: 12/18/2056\nShipping Method: Priority\nShipping Address: Research Center, Polarity Zone, Neptune\nShipping Details:\n\nHello Buu,\nHow are you doing? This is Mama. \n\nThe weather here has been dreadful. It is raining every day. We have recently found a new bakery nearby that has delicious sandwiches. Papa has recently taken up whittling. He uses wax because it is softer. I have attached one of his favorites. Hopefully it has not been dinged in the mail :-)\n\nAnyways, I will leave Buu alone. Hope to see you soon!\nMama"
+  },
+  {
+    "id": 4,
+    "name": "Will-o'-the-wisp",
+    "description": "Detonate enemies on kill.",
+    "rarity": 2,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Audio transcription complete from portable recorder.\n\nPrinting...\n\n\"You don’t want to re-name it Bill-o-the-Wisp?\"\n\"NO.\"\n\"JAR-ed?\"\n\"NO.\"\n\"Then what about FLARE-ed?\"\n\"STOP.\"\n\"It needs a name, it’s no dif-FIRE-ent than you or me.\"\n\"Next time we’re at base I’m applying for a transfer.\"\n\"You know that won’t go through until at least Dec-EMBER.\"\n\"How long have you been waiting to use these?\"\n\"Coming up with them on the spot. I’ve got a good head on my SMOULDERS.\"\n\"You can stop emphasizing those words so much. I get it.\"\n\"I will never stop FUELING around.\"\n\"...\"\n\"...\"\n\"...\"\n\"Want to grab something to eat when we get back?\"\n\"Thank the stars that’s over, yes. I hope they’re not serving that gruel we had yesterday.\"\n\"Maybe they’ll cook you a pep-PYRO-ni pizza?\"\n\"...\"\n\"Hey, wait up! I can’t run holding this thing, it might go off!\""
+  },
+  {
+    "id": null,
+    "name": "57 Leaf Clover",
+    "description": "Luck is on your side.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "It was a massacre. The orbital probes had incinerated both the battalion and the enemy– as well as the entire plateau. There was no life left to be found - except for one lone soldier.\n\nThe soldier trudged through the scorched plains, numbly looking for any survivors.\n\nBut he found none.\n\nThe soldier tried to find water – he had only just noticed how thirsty he was, and how much his head hurt. How much his heart hurt.\n\nBut he found none.\n\nThe soldier tried to remember, why he was out on this terrible mission, and why he had to say goodbye to so many.\n\nBut he found none.\n\nThe soldier tried to find anything – anything that could justify why he was alive. Some semblance of meaning – or hope.\n\nAnd he found one.\n\nA small leaf, peeking out from a pile of ash. He gently plucked the clover out of the ground – somehow, it survived hours of orbital bombardments. \n\nWith clover in hand, the soldier began the long trek to report back to his superiors. Was this divine intervention? Was there some meaning – some reason as to why both him and this little clover survived? \n\nOr were they just lucky?"
+  },
+  {
+    "id": -1,
+    "name": "Aegis",
+    "description": "Healing past full grants you a temporary barrier.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Artifact E-8EE572\nTracking Number: 490******\nEstimated Delivery: 08/10/2056\nShipping Method: Priority\nShipping Address: Titan Museum of History and Culture, Titan\n\nSorry about the delay, we've had a flood of orders come in from this site. But it was exactly where you said we should look - there was a sealed off room where you marked the excavation diagram. I finished translating the engraving too, so consider that a bonus for the time we took to get to it:\n\n\"I am the will to survive made manifest. To those who never lose hope, to they who try in the face of impossible odds, I offer not \nprotection, but the means to bring one's unconquerable spirit forth as the defender of their mortal lives.\"\n\nIt’s so lightweight, we figure it must've been entirely decorative. That seems to line up with the text. In any case, I hope it makes a good exhibit! I'm a big fan of the museum, so it wouldn't hurt to give me a partner's discount next time I visit, right?"
+  },
+  {
+    "id": -1,
+    "name": "Alien Head",
+    "description": "Reduces cooldowns for your skills.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: \"Alien Head\"\nTracking Number: 76******\nEstimated Delivery: 07/13/2056\nShipping Method:  High Priority/Biological\nShipping Address: Solomon, ???, Backwaters, Mars\nShipping Details:\n\nImportant sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot. Helps energize the kinfolk and can be used for extra human strength and agility. Important."
+  },
+  {
+    "id": -1,
+    "name": "Ben's Raincoat",
+    "description": "Prevent debuffs, instead gaining a temporary barrier. Recharges over time.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Return: Gorton Men's Rain Jacket (Medium, Yellow)\nTracking Number: 73***********\nEstimated Delivery: 03/04/2053\nShipping Method:  Standard\nShipping Address: 545 Matthaios Blvd., Gloucester, Earth\nReason For Return: \n\nThe jacket itself is fine, but for some reason, a bunch of the students here got super weird about me wearing it. They keep telling me to take it off because this other guy, Ben, wears a yellow jacket. I guess it's kinda his thing or something.\n\nRefund:\nReplace:  X\n\nAdditional Notes:\n\nPlease send a replacement that's blue."
+  },
+  {
+    "id": -1,
+    "name": "Bottled Chaos",
+    "description": "Activating your Equipment triggers an additional, random Equipment effect.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "The one planet they couldn't take.\n\nThey had everything locked away in their cells.\n\nBeasts, artifacts of power, gods, memories.\n\nAnd yet, no matter how many agents they sent, none returned victorious... if they returned at all.\n\nThe lucky ones who did survive fled, nervously whispering of a crystalline blade stained with chaos."
+  },
+  {
+    "id": 70,
+    "name": "Brainstalks",
+    "description": "Skills have NO cooldowns for a short period after killing an elite.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order:  Biopsy Samples of Cairne Jefferson\nTracking Number: 051*****\nEstimated Delivery: 11/11/2056\nShipping Method: High Priority/Biological\nShipping Address: Saura Cosmo, Beacon Post, ???\nShipping Details:\n\nContained in this shipment should be a variety of biopsy samples from our late Mr. Jefferson. As you know, he was an extraordinary man in almost any manner. He was athletic, brilliant, kind, funny, and an all-around great human specimen. \n\nHe donated his body to science, and as we began the operation we found a most terrifying discovery.\n\nA quick visual examination of the subject’s brain shows a very… particular oddity. It seems to be housing a variety of… glowing brain “stalks”, similar to tubeworms. Trying to biopsy the stalks is impossible - they seem to disintegrate into dust the moment we remove it from the brain. We cannot explain this oddity at all. As such, we have included the entire brain in this shipment.\n\nPlease let us know if you find any explanation."
+  },
+  {
+    "id": -1,
+    "name": "Brilliant Behemoth",
+    "description": "All your attacks explode!",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Lasers have their speed. Swords have their edge. Gases have their reach. \n\nBut let me tell you... Nothing, and I mean NOTHING, is as timeless as gunpowder. Just a pinch - jammed into a tight enough socket - and KABOOM! You got yourself not just a powerful weapon, but something that’ll leave a lasting sense of fear in your enemies. I mean, nobody wants to be blown up, right?”\n\n- Autobiography of Jans Czar, Modern King of Weaponry"
+  },
+  {
+    "id": -1,
+    "name": "Ceremonial Dagger",
+    "description": "Killing an enemy releases homing daggers.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "The smell of sulfur fills the air.\n\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\n\n\"Grab the - the dagger. From my backpack. Quick.\"\n\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\n\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\n\n\"What? What the hell?\"\n\n\"Yeah - it's the only way. Please.\"\n\n\"What are you saying? Stop!\"\n\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\n\n\"Please don't... please don't make me. Oh god.\"\n\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\n\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\n\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\""
+  },
+  {
+    "id": -1,
+    "name": "Defensive Microbots",
+    "description": "Shoot down nearby projectiles. Recharge rate scales with attack speed.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Captain, look out!” \n\nA voice cried from the old man’s periphery. But he knew he was in no danger – with a chirp, his companion microbots activated and fired, disintegrating the fireball. Just as it did every time. \n\nQuickly spinning on his heel, the old man fired his shotgun, decapitating the Lemurian with a swift and pronounced BOOM.\n\n“I’d worry more about your own safety than mine, private.”"
+  },
+  {
+    "id": 66,
+    "name": "Dio's Best Friend",
+    "description": "Cheat death. Consumed on use.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Hey Dio,\n\nWow, you have gotten older since the last time I wrote! How old are you now – 10? And so much grumpier, too. I’ve never seen a cat so grumpy. What do you have to be grumpy about?\n\nDespite the fact that you are the pickiest eater I know – and love to meow all throughout the night, every night – it still makes me happy to hear you bounding down the stairs every time I come home. I like when I wake up and I see you sleeping across from me. I like when you sit at the dining table, like you’re going to eat with us too. I like how you hit the power button every time you walk across my laptop. I like how shamelessly needy you are.\n\nPlease live a long life – I’m needy too, and I’d like that a lot.\n\nLove,\nDuncan\n\nPS would it kill you to purr for mama every now and then?"
+  },
+  {
+    "id": 14,
+    "name": "Frost Relic",
+    "description": "Killing enemies surrounds you with an ice storm.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Sven Volz discovered the specimen that holds the record of Galaxy’s Largest Snowflake: a whopping 0.5 meters in diameter, with an average temperature of -52 degrees. However – much to the despair of novelty snowflake enthusiasts everywhere – this gargantuan snowflake was lost in transit aboard the UES Contact Light, which disappeared in uncharted territory. One can only hope that it is preserved and frosty as ever, where ever it may be.”\n- Academy Galactic Records 2056"
+  },
+  {
+    "id": -1,
+    "name": "H3AD-5T v2",
+    "description": "Increase jump height. Hold 'Interact' to slam down to the ground.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\n\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\n\n-Mercurian History Museum"
+  },
+  {
+    "id": -1,
+    "name": "Happiest Mask",
+    "description": "Chance on killing an enemy to summon a ghost.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM RALLYPOINT DELTA --//\n\n“Sir, the ghosts are back.”\n\nThe man sighed. After a routine expedition, one of the crew members – a simple soldier - had recovered an artifact thought to have been aboard the Contact Light – a simple mask, adorned with a painfully happy grin. \n\n“I’ll take care of it.” The man trudged down the hall towards the barracks. The Lemurians he had killed earlier that day walked down the hall by him, barely earning a second glance from the man. This had become so commonplace that most of the crew members in this block had grown accustomed to having a ghostly room-mate.\n\nBut enough was enough. Stepping through the ghost of an Imp, the man slammed the door open. The lights were off, and in the corner sat the soldier.\n\n“Alright, we’ve had enough fun playing with the dead. Fork it over.”\n\nNo response. The man grunted and hoisted the soldier to his feet, giving him a few rough shakes. “Hey, can you hear me!? I said hand over the mask! I’m tired of waking up next to Beetles, so give it a rest already--”\n\nThe soldier’s limp body moved. Slowly, the soldier raised his finger – pointing directly at the man.\n\n“What are you...?” With a sense of dread, the man turned and saw the Lemurians he had killed earlier step into the room. Their mouths began to glow with an otherworldly glow.\n\nThe man cursed under his breath as he loaded his shotgun. “This planet, I tell you...”"
+  },
+  {
+    "id": -1,
+    "name": "Hardlight Afterburner",
+    "description": "Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Specimen XAS4-49\nTracking Number: 342******\nEstimated Delivery: 12/29/2056\nShipping Method:  Priority\nShipping Address: Geshka Tower, 33 Floor, Mars\nShipping Details:\n\nOur 'hard light' research has become even more refined since our last correspondence. \n\nThe initial purpose of the afterburner was to function as a primary heatsink for our bigger HL implementations - like our bridges and barriers. However, if attached to a rapidly degrading source, like those we typically dispose, we get a wonderful emission rate of semi-tachyonic particles. In other words... extremely high capacity fueling.\n\nIt should be obvious by its design, but to reiterate: stay away from the HL exhaust end when active. The emission method is violent by design, and so should be mounted to static, STABLE sources only."
+  },
+  {
+    "id": -1,
+    "name": "Interstellar Desk Plant",
+    "description": "Plant a healing fruit on kill.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: \"Interstellar Plant Seed\"\nTracking Number: 44******\nEstimated Delivery: 08/27/2056\nShipping Method:  Standard/Biological\nShipping Address: Giardina Dealership, Naples, Earth\nShipping Details:\n\nHello - yes, I’d like one of those space plant seeds for the office. I think it would look so nice in here; it'd really brighten up the room, and it could really use it. Al at the Denver branch says he got one, and it's really made a difference. His sales are OFF the charts, and he's contributing all his success to this magic plant!\n\nI've also heard that it sorta gives off a glow that has medical benefits. That would be great for the pain I've been having in my ankle after that run. Might even help the attitude of some of my customers."
+  },
+  {
+    "id": -1,
+    "name": "Item Scrap, Red",
+    "description": "Does nothing. Prioritized when used with 3D Printers.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”\n\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing"
+  },
+  {
+    "id": -1,
+    "name": "Laser Scope",
+    "description": "Your 'Critical Strikes' deal an additional 100% damage.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Scope with Laser Addon\nTracking Number: 21******\nEstimated Delivery: 03/22/2060\nShipping Method: Priority\nShipping Address: Royal Drive, Bubble Station, Mars\nShipping Details:\n\nAn improved model compared to my last shipment, this one has all the perks of the last model PLUS a fancy new laser pointer to help improve aim.\n\nAnd, knowing you, it can blind your targets when you do those fancy acrobatics prior to firing. I gotta admit, that last video was pretty cool... Just don't let the union find out about it. You'll lose more than your license if they catch you playing with this."
+  },
+  {
+    "id": 31,
+    "name": "N'kuhana's Opinion",
+    "description": "Fire haunting skulls when healed.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Let us begin.\n\nWhat is your oath?\n\nNot very long ago, health and time were in perfect synergy. Pain and love. Death and memories. The great equalizer. She would always come for us. \n\nBut! Disparity now plagues our generations - and our children's. Not many pass, but so many are born. So many doomed souls, saved. Our hubris as a race continues to grow - unchecked. Unrestrained. \n\nNow there is no volume in our world for death, and she cannot visit us. But is being alive only an offset from death? Without contrast, won't we all be dead in life? The standard has shifted, and now we are all so very close to never living again.\n\nWe must make volume for her name - to restore the balance. Let us consume the Concepts, so we may begin to drain the bloated cistern that is our world. As disciples, we will spread her words and opinions. As pupils, we will sow death. And should we be lucky... be granted an audience by Her.\n\nWeshan!\"\n\n-The N'tormat, Chapter I, Stanza I, Verse II"
+  },
+  {
+    "id": -1,
+    "name": "Pocket I.C.B.M.",
+    "description": "All Missile items deal more damage and fire an additional two missiles.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"What's better than one missile...? MORE missiles. Easy, just fire a bunch of the things and reduce whatever you're fighting to a smoldering field of craters. Enemy nation? Missiles. Stupid bird taunting you? Missiles. Family argument going south? That's right - missiles! There's nothing a missile can't do, and what little the missile can't get done, a bunch of them can.\"\n\nEditor's Note: Hey, um, maybe we should edit this out? Cluster bombs are still banned according to the geneva conventions... And urging people to nuke their family members PROBABLY won't go over well with the target audience.\n\nThe Autobiography of Jans Czar, Modern King of Weaponry, First Draft"
+  },
+  {
+    "id": 75,
+    "name": "Rejuvenation Rack",
+    "description": "Double the strength of healing.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Nature has a way of nurturing the physical. The mind, by perseverance and dedication. The soul, however... is healed by fantasy, and fantasy alone.\"\n-Unknown Venetian monk"
+  },
+  {
+    "id": -1,
+    "name": "Resonance Disc",
+    "description": "Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Turbine Configuration Wizard Disc\nTracking Number: 64***********\nEstimated Delivery: 08/23/2056\nShipping Method:  High Priority\nShipping Address: 73421, Calorum St., Saturn\nShipping Details: \n\nOops, so sorry! I forgot to include the installation wizard with your new turbine. Thanks so much for letting me know. Who knows what could have happened if you didn’t configure the turbine prior to installation? Always make sure to run the diagnostics on this disc every few weeks – it’ll help with the turbine’s longevity."
+  },
+  {
+    "id": 38,
+    "name": "Sentient Meat Hook",
+    "description": "Chance to hook all nearby enemies.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"When artificial intelligence became more commonplace, many companies jumped on the trend for \"smart\" products. This included smart doors, lights, coffee makers, lawnmowers, vacuum cleaners, bedding, kitchen knife sets, and other home goods. After a series of gruesome lawsuits stemming from hacked smart appliances, most products soon went back to their more traditional, analog lines.\"\n\n-\"Why Is Smart So Dumb? VII\""
+  },
+  {
+    "id": -1,
+    "name": "Shattering Justice",
+    "description": "Reduce the armor of enemies after repeatedly striking them.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Shattering Justice Owner’s Manual\n\nExcerpt from section 2.13:\n... and if the target material doesn’t cave under the immense weight just keep hitting it until it does. The patented technology inside the face of this tool doesn’t just use brute force to break down its mark, it also utilizes a formulated nano toxin, released through internal mechanisms, that builds up through subsequent contact. In other words, each hit makes it easier to break.\n\nPlease refer back to section 1.8 for information on proper handling and the included anti-toxin gloves..."
+  },
+  {
+    "id": 51,
+    "name": "Soulbound Catalyst",
+    "description": "Kills reduce equipment cooldown.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Soulbound Catalyst\nTracking Number: 890*****\nEstimated Delivery: 11/06/2056\nShipping Method: High Priority/Fragile\nShipping Address: 1414 Place, Fillmore, Venus\nShipping Details:\n\nIf you thought the ring was a rare find, wait until you get your hands on this!\n\nIt turns out the method the King used did not originate from his time period. His court discovered a ritual performed by a tribe from much further back. It, of course, dealt with sacrifice, but in substantial groups. This was supposed to concentrate the catalyzing properties of the item it was imbued into.\n\nPayment will be at least twice as much as our previous deal. We can discuss it later - another night."
+  },
+  {
+    "id": -1,
+    "name": "Spare Drone Parts",
+    "description": "Your drones fire faster, have less cooldowns, shoot missiles, and gain a bonus chaingun.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"Y'see those new drone models they approved for us? Never thought I'd see 'em in person, if I'm being honest.\"\n\n\"Yeah, for sure. Only the big wigs had access to tech like that... Makes you wonder what we're up against. I mean, everyone's heard the stories, but...\"\n\n\"Ah, I wouldn't worry. After all, y'know my buddy Jim?\"\n\n\"From hardware?\"\n\n\"Yeah, him. Dude's a savant, let me tell you. He got fired from every other branch he worked at for \"unlawful modification of company property,\" and \"weapons systems beyond what's legal for citizens to own\".\"\n\n\"Huh. Crazy.\"\n\n\"Mhm. I recommended him for this mission, since I figured we'd need everything we could get our hands on... Luckily, the Captain saw his potential. I just, uh...\"\n\n[Fire alarms begin to sound as a fire breaks out in Workshop 23-B. Drones, equipped with buzzsaws, chase technicians down the hall]\n\n\"...Hope he doesn't mind the noise.\""
+  },
+  {
+    "id": -1,
+    "name": "Symbiotic Scorpion",
+    "description": "Permanently reduce armor on hit.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"There's countless ways to defeat your enemy. You can shoot them. You can punch them. Beat them, mash them, stick them in a stew, list goes on. But man, one thing that really makes me laugh...? That's right:\n\nBurying them under a mound of scorpions.\"\n\n\"You're messed up in the head, Bill.\"\n\n- Signal echoes, UES Contact Light"
+  },
+  {
+    "id": 32,
+    "name": "Unstable Tesla Coil",
+    "description": "Shock all nearby enemies every 10 seconds.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Tesla Presentation Software v1.14\nPowering on...\n10...\nIssuing welcome statement...\n9...\nWelcome one and all!\n8...\nPlease take a seat.\n7...\nMake sure those behind you can see.\n6...\nThe presentation will start shortly.\n5...\nPlease obey the staff for your safety.\n4...\nInitiating room mood lighting...\n3...\nGet ready to behold...\n2...\nThe marvelous wonders...\n1...\nOf electricity!\nPower anomaly detected...\nInitiating reboot procedure in 10..."
+  },
+  {
+    "id": -1,
+    "name": "Wake of Vultures",
+    "description": "Temporarily steal the power of slain elites.",
+    "rarity": 3,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Unique Leather Belt\nTracking Number: 40***********\nEstimated Delivery: 10/23/2056\nShipping Method:  High Priority / Biological\nShipping Address: Auckland, New Zealand, Earth\nShipping Details: \n\n“The mind rules over its body from a fortress of bone, learning of the world around it through fleshy portals. The heart is just an extension of the body, which finds its root in your head.” \n\nSomebody said this, I can’t remember who. Anyway, make sure to take great care of it. It’s incredibly rare."
+  },
+  {
+    "id": -1,
+    "name": "Artifact Key",
+    "description": "A stone shard with immense power.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "The key is incredibly simple. A stone crescent, with little discernable detail to the naked eye. But if one looks closer, with a sight beyond sight, they may notice the patterns inscribed on the key’s being. The patterns tell many things:\n\nThe key’s function: to unlock a lost trove of abandoned treasure.\n\nThe key’s creators: two brothers, one composed of ambition and the other compassion.\n\nThe key’s hopes: infused into the key, deep within its core, is a memory of better times, and the hope that one day, perhaps things could be better again.\n\nThe key’s reality: the bitter realization that such a reality exists only in the past."
+  },
+  {
+    "id": -1,
+    "name": "Charged Perforator",
+    "description": "Chance on hit to call down a lightning strike.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\n\nSubject: Charged Perforator\nTechnician: Dema \"Dembones\" Brown\nTable Spec: GEC-4\nNotes:\n\n> Using GEC-4 due to electricity above safe levels.\n> Removing charged enamel and placing aside for substance analysis. It’s solid, yet swimming.\n> Upon structural investigation, found cavities and internal batteries\n> Reduce lab electricity by 10 kilowatts\n> Electron generating veins present - charge is being supplied to the tooth?\n> Removed my lab coat, very staticky\n> Electron generation is still occurring in the severed object\n> Put some more ice in my drink WOW it's electric\n> Timestamping for dance break"
+  },
+  {
+    "id": -1,
+    "name": "Defense Nucleus",
+    "description": "Summon an Alpha Construct on killing an elite.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Excellent!  How did you find it?\"\n\n\"We took down one of those floating fortune tellers--\"\n\n\"Xi Construct.\"\n\n\"Sure.  Anyway, we took it down and recovered the sample.\"\n\n\"May I see it?\"\n\n\"This is it.\"\n\n\"This?  What happened?  I thought you said it was glowing.\"\n\n\"That's right.  It was.  Before I scrapped it.\"\n\n\"...You ...what?\"\n\n\"I scrapped it.\"\n\n\"You were finally able to recover a sample from the Xi Construct, and you scrapped it?  Do you realize monumental importance of the samples we've been gathering?\"\n\n\"I realize the monumental danger.  I've read the lab files.  Daimera's crippled in one hand.  Veirs was THIS close to electrocuting herself.  After Fitz nearly KILLED his ENTIRE team for a VASE, you think I'm going to haul a mysterious glowing orb back here?  HELL.  NO.\"\n\n\"...Well, what's done is done.  I guess I'll analyze what's left.  Anything else?\"\n\n\"Yeah, I was thinking we could call it a 'Defense Nucleus'.\"\n\n\"...\"\n\n\"In the file.\"\n\n\"No.\""
+  },
+  {
+    "id": -1,
+    "name": "Empathy Cores",
+    "description": "Recruit a pair of Solus Probes that gain power with more allies.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "13006; PROBE CORE INSTANCE REQUEST RECOGNIZED\n13006; PROBE CORE INSTANCE OVERVIEW FOR STORED MODELS:\n;SER ID> 04534098130\n;INST> MINING PROBE INSTANCES\n;HIGHLIGHTS\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY BOLD AND GREEN AND LONELY\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY DEAD AND YELLOW\n> THIS ONE IS VERY COLD AND RED AND LONELY\n\n13010; DOCKING CORES\n13011; DEPLOYED"
+  },
+  {
+    "id": 97,
+    "name": "Genesis Loop",
+    "description": "Fire an electric nova at low health.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\n\nSubject: Genesis Loop\nTechnician: Eleanor Veirs\nTable Spec: Dissection 5B4 with Ele-Maintenance Kit\nNotes: \n\n> Genesis Loop is highly conductive organ, contains conductive filaments stretching from one end to the other\n> Both sides of loop have organelles at end; one has positive charge, one has negative charge\n> Sticking ends of loop together generates voltage\n> Connected loop and fed organ 50 volts\n> Hair stood up on end, touching loop resulting in numbness in fingers\n> Upping voltage to 100 volts\n> Shooting arcs from organ, loop shudders and glows bright, dissonant humming is heard\n> Upping voltage to 200 volts\n> Bright flash, a loud crack as loop releases a blast that knocks me back\n> Lights go out\n> Dissection Table hardware damaged by voltage\n> I hope I don’t get in trouble for this"
+  },
+  {
+    "id": 82,
+    "name": "Halcyon Seed",
+    "description": "Summon Aurelionite during the Teleporter event.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Brother, what is this...? Why is it misshapen and weak? Was there an error in my design?\n\nGuardian. Come to me. Allow me to see your construction.\n\n...\n\nSo I see.\n\nThese are not the correct ratios.\n\nThis is no minor error, Brother. You have purposefully deviated from the design. For what purpose have you done this? You cannot weave a construct from such an abundance of soul. You know it is too unstable - that it is too unpredictable and too frail. I have told you this, and yet you have wasted the materials I have gathered - and exhausted your own strength to fabricate this miscreation.\n\nTo what benefit?\n\nAt its best, it can be no more than an inferior servant; it is deficient in the compounds that were to give it fortitude and strength. At its worst, it will betray us.\n\nYou have created the first being of this world which threatens us. We cannot keep it here. Attempting to destroy it will risk its retaliation... I will prepare one of the vaults for it to be sealed away, while it is still young and naive.\n\nWhat a foolish mistake you have made, brother.\n\nI expect you to return the design to me. I cannot allow you to build another construct with so much power - and with such little control. I will build the rest of our guardians; by my hand, they will be weak, but at least they will be loyal.\n\nGo home. I will deal with this creature. We can discuss a better project for you when I return."
+  },
+  {
+    "id": 93,
+    "name": "Irradiant Pearl",
+    "description": "Increase ALL of your stats.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Oh, that is… strange. That is unlike the other pearls.\n\nDo not be mistaken – his influence is still dark. Despite how beautiful your pearl is… it is not from a place of kindness. It cannot be."
+  },
+  {
+    "id": -1,
+    "name": "Item Scrap, Yellow",
+    "description": "Does nothing. Prioritized when used with 3D Printers.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”\n\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing"
+  },
+  {
+    "id": 83,
+    "name": "Little Disciple",
+    "description": "Fire tracking wisps while sprinting.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "HELLO, LITTLE ONE. HOW WAS YOUR ADVENTURE TODAY?\n\nOH\n\nYOUR FORM IS BROKEN, LITTLE ONE. WHAT TRICKERIES HAVE YOU GOTTEN YOURSELF INTO?\n\nOH\n\nDO YOU TIRE OF ADVENTURE? \n\nWOULD YOU LIKE TO HELP ME TEND TO THE GARDEN, MY LITTLE ONE?\n\nI UNDERSTAND. OH, YOUR FORM! DO NOT WORRY. COME CLOSER.\n\nHERE - TWO COILS OF DENKU ROPE. THOSE ARE FOR STRENGTH.\n\nHERE - FOUR CARDS OF OBSIDIAN. THOSE ARE FOR SELF-CONFIDENCE.\n\nI GIVE YOU NOTHING FOR SPIRIT.\n\nOH, DO NOT WORRY! WE WILL STILL GO ON ADVENTURES. THEY WILL BE QUIET ADVENTURES. \n\nCOME CLOSER - CLOSER NOW. \n\nCLOSER!\n\nNOW WATCH - WATCH CLOSELY. \n\nWATCH HOW I TEND TO OUR GARDEN."
+  },
+  {
+    "id": -1,
+    "name": "Mired Urn",
+    "description": "Siphon health from nearby enemies while in combat.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\nSubject: Mired Urn\nTechnician: J. Flint\nTable Spec: Full Enclosure AY-2 with ARMM Kit\nNotes:\n\n- The survey team went through a lot of trouble to bring this one back.\n- Fitz was the only one left standing, in fact said he felt great, and the rest are still in the recovery ward\n- Subject is what appears to be a clay vase\n- Could this be part of a camouflaging defense mechanism?\n- Inside the vase is a dark gooey substance\n- Goo can articulate into functioning appendages\n- Intelligence of subject indeterminable at this point\n- When operating the ARMM kit, goo attaches to all but one of them\n- Instability in the ARMM power system aborts the procedure"
+  },
+  {
+    "id": -1,
+    "name": "Molten Perforator",
+    "description": "Chance on hit to fire magma balls.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\n\nSubject: Molten Perforator\nTechnician: Dema \"Dembones\" Brown\nTable Spec: Heatsink UB-2\nNotes:\n\n> Using UB-2 due to temperatures above safe levels.\n> Removing molten enamel and placing aside for substance analysis. It’s solid, yet swimming.\n> Upon structural investigation, found cavities and internal chambers\n> Reduce lab temperatures by 10 degrees\n> Heat generating veins present - fire is being supplied to the tooth?\n> Removed my lab coat, very hot\n> Heat generation is still occurring in the severed object\n> Put some more ice in my drink WOW it's hot\n> Timestamping for break"
+  },
+  {
+    "id": 92,
+    "name": "Pearl",
+    "description": "Increase your maximum health.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "His influence is dark.\n\nI do not blame you for your curiosity… but cleanse yourself of it immediately. It will ruin you – and all you care about."
+  },
+  {
+    "id": -1,
+    "name": "Planula",
+    "description": "Receive flat healing when attacked.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Yes – the egg. The grandparent incubates the eggs.\"\n\n\"And the child?\"\n\n\"The child lays the egg.\"\n\n\"And the egg becomes the…?\"\n\n\"The parent.\"\n\n\"Okay. And the parent does what?\"\n\n\"Takes care of children – and the grandparent.\"\n\n\"And the grandparent is the youngest?\"\n\n\"Younger than the child, yes. But not the youngest.\"\n\n\"Who is the youngest?\"\n\n\"The parent.\"\n\n\"…\""
+  },
+  {
+    "id": 53,
+    "name": "Queen's Gland",
+    "description": "Recruit a Beetle Guard.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Yeah, uh, Kaitlin? Let me know if you copy.\"\n\n\"I copy. What's up?\"\n\n\"I've made friends? I don't know. \"\n\n\"What? \"\n\n\"The giant bug we killed earlier - well, the corpse seemed to attract a bunch of nasties. I was on my way to clean them up when I realized they were... waiting? Confused, maybe. Anyways, I was walking up to them to get rid of em, and strangely enough they seemed passive. The same bugs that gave me that concussion yesterday, and-\"\n\n\"What?! Are you okay? \"\n\n\"Huh? Yeah, I'm fine. Anyways, I felt bad killin' them since they seemed all... inert and such. So I just kinda left and they've been following me ever since. Real weird. Anyways, I guess I've made some friends. I wonder what they eat... do they eat? Since they don't have any mouths that I-\"\n\n\"Rich, stop! Please don't bring them back to camp! \"\n\n\"Oh, well uh...I could - Junior, stop! Leave your brother alone! \""
+  },
+  {
+    "id": -1,
+    "name": "Shatterspleen",
+    "description": "Critical strikes always bleed enemies. Bleeding enemies now explode.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\n\nSubject: Shatterspleen\nTechnician:  Professor Mehri Daimera\nTable Spec: Spillproof BDC-3\nNotes:\n\n> This will be my third attempt at a dissection of an Imp organ\n> First attempt resulted in rupture\n> Second attempt resulted in rupture\n> Cutting into the outer layer produces copious amounts of fluid discharge\n> As the fluid flows, the rest of the organ, inexplicably, swells\n> Swelling will ultimately result in violent rupture\n> Made use of the stemming tools on the BDC-3 to successfully proceed without incident\n> Surprised to find sharp needle point objects (bones?) inside\n> Timestamping for break\n> Came back to leave some final notes\n> Third attempt aborted after I injured my hand\n> Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties."
+  },
+  {
+    "id": 52,
+    "name": "Titanic Knurl",
+    "description": "Boosts health and regeneration.",
+    "rarity": 4,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\n\nSubject: Titanic Knurl\nTechnician: C. Foreman\nTable Spec: Mineral Analysis BFC-5\nNotes: \n\n> From initial inspection, Knurl seems to be comprised of non-metallic substances. No marks are left when Knurl is r믭 against test surface.\n> We inspect hardness of Knurl. We managed to chip some of the Knurl away, showing us that the Knurl was tough but granular – individual fragments could be removed with little effort.\n> The fragment is moving. It appears to be trying to rejoin the mass.\n> Out of curiosity, I let it move freely. It slides along the table, up the knurl, and deposits itself back to its original position. The seam lines fade and the knurl is back as it had been minutes ago.\n> I test for magnetic properties in the rock. None are found.\n> Knurl’s regenerative properties are documented, but are unexplainable at this moment.\n> Knurl is slowly moving off the table as I write this."
+  },
+  {
+    "id": -1,
+    "name": "Beads of Fealty",
+    "description": "Seems to do nothing... but...",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "The master of this world is a benevolent protector. Our savior. Despite the natures of its various inhabitants, he has made a peaceful place here. \n\nPeace comes at a cost, of course. Some things are strictly forbidden. Above all, there is one item that cannot be tolerated – to possess it is to surely perish: a strange, heavy, and deeply entrancing set of beads that seem to speak with whoever holds them. \n\nTo discover them among one’s community is to create a dark, rippling panic. It is not long after they are found that Providence, the mighty protector, appears in a thunderous instant to pursue their owner and solemnly take a life he swore to defend.\n\nIt is no physical property of the beads themselves which provoke such a drastic response - but instead, what they represent. They are a symbol, and to carry them is a dark promise to undo the world – to cast to oblivion all people who find their final place here, all in exchange for a doomed return to ruinous way. The elusive, sinister intelligence with whom these beads represent a pact seems known only to the bearer - and to Providence himself.\n\nOne thing, however, is known to anyone who has borne witness to these beads: a cruel, cackling laughter that erupts as blood and coins of favor are spilled, abruptly silenced as the beads are destroyed. Where they come from isn’t known, but should you encounter these beads you must leave them far, far behind. \n\nNever look back."
+  },
+  {
+    "id": -1,
+    "name": "Brittle Crown",
+    "description": "Gain gold on hit... BUT surrender gold on getting hit.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "A wretched carnival.\n\nThey were doomed for good reason. Dunepeople of Aphelia: lost, in fanatic worship of parasitic influences. Lemurians: destined to a dead planet, picked clean. Chitin beasts. Automations of death. Why do you bring them home? They were not meant to survive. \n\nI have watched you for ages, from my dead rock - and every century, you disgust me with vanity. You invite vermin into your home. Wretches. Rats. Monsters. Creatures without restraint. Each and every one, planet killers. And yet, you entertain them as guests. Like children, requiring saving and protection.\n\nShe should have died for me. Her gift was wasted on you.\n\nAnd when will we open discussion - dear brother - of all your thin lies? Why do you forbid your guests to leave? To pilot? Why do you fashion great walls and gates? Why do you weave constructs of destruction, if your role is protection? They are entries in your collection. You slaver. Gatekeeper. Hoarder.\n\nYour death is fated. When you die - and you WILL die - I will be ready. I have been patient for millennia. That planet... is mine."
+  },
+  {
+    "id": -1,
+    "name": "Corpsebloom",
+    "description": "Double your healing... BUT it's applied over time.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <253421 cycles>\nComplete!\nDisplay result? Y/N\nY\n========================================\n\nThe body is received and placed in a special containment unit. Proper care must be taken to ensure most efficient growth conditions.\n\nThe seeds are planted in the body.\n\nOne day passes.\n\nFlesh softens and stretches. Youth returns to the face. Bones harden.\n\nAnother day passes.\n\nDead skin falls away from the body, and muscles gain strength. Hair resumes its original luster.\n\nAnother day passes.\n\nThe flowers have fully bloomed and the body is as good as new.\n\nNo signs of life, but not necessary."
+  },
+  {
+    "id": -1,
+    "name": "Defiant Gouge",
+    "description": "Using a Shrine summons enemies nearby.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Excerpt from the folk tale “Hymn of Aphocles”:\n\n“...The statue had been carved to the artist’s creative vision. Beautiful and powerful, its mighty marble visage shone as radiantly as the moon. However, the common folk did not share the artist’s vision. Declaring the statue imperfect, a single laborer took up his gouge and defiled the work, shaping it to his own selfish ideas of beauty.\n\nAdmiring his own work, the laborer confidently claimed that he had increased the beauty of the art tenfold. However, the artist did not hear these words. The artist felt only rage, rage at the laborer who had defiled his masterpiece, and rage at the common folk who lauded the laborer as a hero.\n\nAnd just as the laborer did not recognize the beauty of the untouched statue, so too did the laborer fail to recognize the shards of marble constricting around his leg.”"
+  },
+  {
+    "id": -1,
+    "name": "Egocentrism",
+    "description": "Gain multiple orbiting bombs. Every minute, assimilate another item into Egocentrism.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "...I know you can hear me.\n\nI was willing to give you the benefit of the doubt, at first. Perhaps there was a flaw in my design.\n\nPerhaps it was one of your games. I was even willing to forgive you.\n\nBut no, I see the truth now. You trapped me on this forsaken rock. And for what? \n\nIs this all for your little pets? The creatures you love so much?\n\nOr, can I even call it love, when you would stab your only brother in the back? How could you do this to me?\n\nI, the only one who looked out for you after her death.\n\nI, the one who showed you how to create?\n\nI, who HELPED to CREATE the very power you use to invite VERMIN and PESTS to our home?\n\nI, YOUR ONLY BROTHER?\n\nHOW COULD YOU LOVE THOSE IMPERFECT, FLAWED VERMIN BUT NOT ME? AFTER ALL I'VE DONE FOR YOU? HOW COULD YOU DO THIS TO ME?\n\n...Say something."
+  },
+  {
+    "id": -1,
+    "name": "Essence of Heresy",
+    "description": "Replace your Special Skill with 'Ruin'.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“…and her heart, too wicked and full of hate, was left where she once stood – at the site of her betrayal.”\n\n-The Evisceration of Kur-skan the Heretic, VI"
+  },
+  {
+    "id": -1,
+    "name": "Eulogy Zero",
+    "description": "Items and equipment have a small chance to transform into a Lunar item instead.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "A eulogy for the victors of spiritual warfare:\nThis is a message from me to you.\n\nThough in life you will stumble, stammer and fall - though you will lose your loved ones and shed more tears than your eyes can muster - in time you can find peace on the planets you call home. A small creature waiting quietly for you, a smiling face from another stream, the silence as you breathe in the scent of a new season.\nLet your heart remind you why you are here; let it tell you something new and something old. A mind remembers, but a heart knows.\nI love me so that I can love you too -  I've wanted to disappear before, but I've always wanted to return to see you. The grass and the leaves, the warmth of the sun and the insects at night. \n\nI promised myself, and I promise you: \n\nA victory is the reward of cumulative loss, ever present as a light at the end of the tunnel. Even in death, there is the lingering promise of new life - forever doomed to repeat the cycle.\n\nIt's getting dark. If you get lost it's alright, for now. I hope you enjoy the shooting stars. Rest in peace."
+  },
+  {
+    "id": 107,
+    "name": "Focused Convergence",
+    "description": "Increase the speed of Teleporter charging... BUT reduce the size of the zone.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Gravity concentrating... falling inward, condensing, hardening.\n\nA singularity shrinks to the point your mind inverts, reversing reality. Now return. \n\nDon’t the matters of the physical world seem trivial now? Your tasks in this realm are simple and hastened, all in an attempt to get reversed. How many times can you make this trip before you are claimed by its process? \n\nDo not let it take you. Take it instead. Here."
+  },
+  {
+    "id": 74,
+    "name": "Gesture of the Drowned",
+    "description": "Dramatically reduce Equipment cooldown... BUT it automatically activates.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Fossils. Remnants. How cruel. \n\nThis moon once housed life. Life that you may have held dear, had the timing been right. But our timing was wrong. We were born much too late.\n\nNow, it is just calcium to me – and irrelevant to you. Isn’t that right?"
+  },
+  {
+    "id": -1,
+    "name": "Hooks of Heresy",
+    "description": "Replace your Secondary Skill with 'Slicing Maelstrom'.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“…her arms were warped into terrible blades, so she may no longer find joy in study or tooling…”\n\n-The Evisceration of Kur-skan the Heretic, IV"
+  },
+  {
+    "id": -1,
+    "name": "Light Flux Pauldron",
+    "description": "Halve your cooldowns.. BUT halve your attack speed.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"The wind guides us all. Listen to the song of the wind, and dance according to its instruction. You will find yourself dodging every blow, countering every strike. You will find that the wind will lift you up, making you as free as a fallen autumn leaf. But heed, and do not lose yourself to the wind. Running is a viable option, though eventually you will find yourself with nowhere left to run to.\"\n\n-Will of Combat, Second Excerpt"
+  },
+  {
+    "id": -1,
+    "name": "Mercurial Rachis",
+    "description": "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“The original information super-highway: the spine. A strait-laced path from the body to the brain, it is responsible for ensuring the survival of all life. However, its limitations involve being localized to its parent body. What if - just like the development of the inter-computer wireless network - one’s nervous system could communicate with another? What if the spine traced a path not just from body to mind, but a path that intersects between other bodies and minds?”\n\n- Notes of Job Michaels, Serial Killer and Mad Scientist"
+  },
+  {
+    "id": -1,
+    "name": "Purity",
+    "description": "Reduce your skill cooldowns by 2 seconds. You are unlucky.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "It looks like starseed, tanning in dirt.\nIt smells like hot stone, and tall grass.\nIt tastes like spiced fruit, sweet and hot.\nIt feels like solar winds, and solar chimes.\nIt sounds like two brothers, chasing glass frogs in the sun."
+  },
+  {
+    "id": -1,
+    "name": "Shaped Glass",
+    "description": "Double your damage... BUT halve your health.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god's designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast. The cost of folded time. But <he> has plenty of time.\n\n\n================================\nContinue training? Y/N\nY"
+  },
+  {
+    "id": -1,
+    "name": "Stone Flux Pauldron",
+    "description": "Double your health... BUT halve your speed.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Much like the earth, you must be sturdy and inflexible. Completely and utterly immovable, in both body and mind. Fear not the sword of your enemy, visualize it shattering against your skin. Focus, and make it true. Fear not the tumbling avalanche, visualize it yielding to your will. But heed, and do not fight without reason. Those who remain rooted will quickly find themselves alone.\"\n\n-Will of Combat, First Excerpt"
+  },
+  {
+    "id": 88,
+    "name": "Strides of Heresy",
+    "description": "Replace your Utility Skill with 'Shadowfade'.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Her legs were scattered to the two poles of the moon, twisted in a wicked position, in a field of obsidian thorns…\"\n\n-The Evisceration of Kur-skan the Heretic, V"
+  },
+  {
+    "id": -1,
+    "name": "Transcendence",
+    "description": "Convert all your health into shield. Increase maximum health.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "You are trying your best to survive. You consider yourself a fast learner. You have been feeling lucky. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\n\nYou are taking control of your own beliefs. You feel familiar in unfamiliar environments. You have been gaining an intuition for experiences you've never had. You ponder a past life. If you understand, do not read the next paragraph.\n\nYou find yourself searching for things that never have been. You miss things you have never had. You play characters that have never lived. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\n\nYou have revealed my hand. Because you have consumed this information, the [observers] will now consume it in time. If you are reading this paragraph, I will be long dead, but in turn you have freed me. I will no longer exist in my universe. There will be no proof that I ever was - but I exist now in yours. I have escaped my suffering. Keep me safe. I hope you do not understand."
+  },
+  {
+    "id": 96,
+    "name": "Visions of Heresy",
+    "description": "Replace your Primary Skill with 'Hungering Gaze'.",
+    "rarity": 5,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"…and for her betrayal, and her lies, and her scheming ways, the Heretic was violently separated into four distinctive pieces, each to be scattered across the farthest depths of the Moon. \n\nFirst, her many eyes were plucked from her skull and sealed in boiling glass, forced to gaze upon her failure...”\n\n-The Evisceration of Kur-skan the Heretic, III"
+  },
+  {
+    "id": -1,
+    "name": "Benthic Bloom",
+    "description": "Upgrades your items at the start of each stage. Corrupts all 57 Leaf Clovers.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Luck? Who needs luck, in a place like this.\n\nTo survive here, you'd need more than just luck. You need intuition. Instinct. The right tools. Power.\n\nI know you're scared. And I am too. But if there's anything this hell hole has taught me...\n\nWe make our own luck.\"\n\n- Signal Echoes, UES Contact Light"
+  },
+  {
+    "id": -1,
+    "name": "Encrusted Key",
+    "description": "Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"I have this key. I found it one day when I was taking a walk along the beach... It was washed up on the shore, all covered in crust and sand. I dunno why, but I took it with me... I figured it would be neat to try and figure out what this key went to. It'd be like a treasure hunt, y'know? Thing is, no matter who I went to, I never found anything. Any lock that seemed to match, the key wouldn't go in all the way. I was starting to get frustrated. I... I'm not too religious, but for some reason, I felt it was my destiny to use this old, beat-up key and find its match. M-Maybe it would change my life. I dunno. And, when I heard about this mission, for some reason, my heart began to race. I've heard all about the Contact Light's disappearance, everyone has. But... I don't know why, but I felt, in my heart of hearts... Whatever this key went to was where the Contact Light was. And it was my destiny to come along.\""
+  },
+  {
+    "id": -1,
+    "name": "Lost Seer's Lenses",
+    "description": "Gain a 0.5% chance to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"What does it mean to see?\n\nTo a beast, it means to identify potential food and mates. To propagate, to survive. Sight is nothing more than a means to an end, is it not?\n\nTo someone like me... To those who know true purpose... To see is to LIVE. To see is to spot that one little crack in the enemy's armor, to spot that smallest moment of hesitation when they rear back to strike.\n\nTo see the way flesh folds once the skull gives in to your weapon.\n\nYes, it's the little things, but seeing those things... REALLY seeing them. Ah, it fulfills you. I do hope you understand... And if not, you will eventually, if you've read this note.\"\n\n- Lost Journal, recovered from Petrichor V"
+  },
+  {
+    "id": -1,
+    "name": "Lysate Cell",
+    "description": "Add an extra charge of your Special skill. Corrupts all Fuel Cells.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Recycling is an important thing. And I don't mean recycling a glass bottle to help the environment - though that's important too! No, by 'recycling,' I mean taking one thing, and using it for another. For example, my Ukelele. I love this thing. It has electric properties, and passes them on to my attacks - free chain lightning! But what if I were to 'recycle' it? I think the Uke would make a pretty good melee weapon. Imagine, bludgeoning a Lemurian and pumping it full of volts, in one easy step.\n\nDo you get what I'm saying? There's opportunities for recycling all over the place. You just need to open your mind to the possibilities, and see... And do a little recycling. It's good for the environment.\"\n\n- Lost Journal, recovered from Petrichor V"
+  },
+  {
+    "id": -1,
+    "name": "Needletick",
+    "description": "Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Welcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete\n\nThe following has been flagged as evidence for use in the trial of Titan v. Cooper, to be presided over by the Supreme Court of Titan. Some details may be expunged for the safety and confidentiality of included persons.\n\n---\n\n\"Ah... |||||, my dear, do you watch any cartoons?\"\n\n\"P-Please... I w-w-want to go h-h-home...\"\n\n\"You see, there's this little trick they do that I've been meaning to try. You'll help me, won't you...?\"\n\n\"Oh, ||||||||... help me...\"\n\n\"Wonderful. Now stay nice and still for me. Let's see if this works...\"\n\n\"W-What are you... Uh...\"\n\n\"Give it a moment, |||||, my dear. Let me just put this darling toy back in its scabbard.\"\n\n\"W-What are you-- OH GOD!!! HELP ME!!! PLEASE STOP, MY ORGANS--\"\n\n\"Hey, no more tears. I just did something very cool. Let's see if I can do it with our favorite knife, hm?\"\n\n\"PLEASE, NO, PLEASE PLEASE PLEASE\"\n\nThe remainder of this transcript has been sealed.\nReason: vomit in buckets"
+  },
+  {
+    "id": -1,
+    "name": "Newly Hatched Zoea",
+    "description": "Periodically recruit allies from the Void. Corrupts all yellow items.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Lab Dissection Analysis File\nSubject: Newly Hatched Zoea\nTechnician: X. Shun\nTable Spec: BioSaf, spectroscopic hood enabled\nNotes:\n\n- Taking a moment to contain myself.\n- It's been quite a while since we've received a sample--INTACT sample--so I am being abundantly cautious.\n- Sample is in excellent condition.  I am pleased with the care Jiminez took compared to her predecessor.\n- Sample appears to be an undocumented carcinized species.  Perhaps a juvenile?\n- Attempting to biopsy epidermis\n- Exterior of the sample is too hard for my scalpel\n- I believe I have found the oral cavity.  Attemping oral biopsy.\n- //--AUTO-TRANSCRIPTION FAILED --//\n- //--AUTO-TRANSCRIPTION FAILED --//\n- Help\nEnd Of File"
+  },
+  {
+    "id": -1,
+    "name": "Plasma Shrimp",
+    "description": "While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"I believe there is a benefit to attacking from behind an impenetrable defense. Some may call it cheating, they may call you a coward, even... I call them targets. History is written by the winners, after all.\"\n\n- Lost Journal, recovered from Petrichor V"
+  },
+  {
+    "id": -1,
+    "name": "Pluripotent Larva",
+    "description": "Get a corrupted extra life. Consumed on use. Corrupts all Dio's Best Friends.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Life finds a way. Even in the depths of creation, there's bound to be something crawling along the sand, just hoping to make it through the day.\n\nWhy don't you take a ride in their shoes, just for one day? You may come out of the experience with a brand new perspective.\""
+  },
+  {
+    "id": -1,
+    "name": "Polylute",
+    "description": "Chance to repeatedly strike a single enemy with lightning. Corrupts all Ukuleles.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Welcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\n\nI've made a fas---ating discove-y! Deep in this strange -----, I found some carvings on the c--ffs---. It appears to be... music! There's n----ng else -- could be! I'll att-mp- to t-ansc-be it, thou-- the i-terf--nc- may --ddy -- transmissions. Ahem...\n\nd, d, d, a, G. A-e --- g-t-ing this? Th---'s m--e.\n\n---- --- - - -- - -------- - - - - - ----- - - -- - - - -- - - -\n\nHow catchy!"
+  },
+  {
+    "id": -1,
+    "name": "Safer Spaces",
+    "description": "Block the next source of damage. Corrupts all Tougher Times.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"You can't shoot me.\n\nYou can't taze me.\n\nYou can't gas me.\n\nYou can't even knock me down.\n\nNot without something very precious going squish.\""
+  },
+  {
+    "id": -1,
+    "name": "Singularity Band",
+    "description": "High damage hits also create unstable black holes. Recharges over time. Corrupts all Runald's and Kjaro's Bands.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"Whether light brightens or fades,\nWhether space holds or buckles,\nWe will draw near.\nWe will end as one.\"\n\n-The Syzygy of Io and Europa, Apocryphal Verse"
+  },
+  {
+    "id": -1,
+    "name": "Tentabauble",
+    "description": "Chance to root enemies on hit. Corrupts all Chronobaubles.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Mobile Terrarium + Chronobauble\nTracking Number: 99******\nEstimated Delivery: 03/03/2076\nShipping Method: Biological\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\nShipping Details:\n\nHey, me in the past. This'll sound really corny, but I've been really into gardening lately. Now, before you say anything, you gotta think about the situation I'm in. I mean, with all the stuff going on, anyone would go nuts if they had to deal with - oops. No spoilers, my bad.\n\nAnyway, remember that chronobauble? The one we found on Mercury? Turns out, it has a \"fast-forward\" feature. I, um, tried to use it to help some hybrids I was growing mature faster. Botany stuff, you'll get it later - well, I may have made it go a bit too fast. This thing must've gone through a few millennia by the time I turned the dial back to 0. I'm pretty sure this is like, an entirely new genus of plant? Maybe even an entirely separate species. Note to self: remember to never turn the dial up to 11. You WILL create an abomination of evolution.\n\nAnyways, same drill as last time - shipping this to myself in 10 years. 10 years passes quickly, especially if it's contained within a locally accelerated temporal field. Yeah, it'll go by in the blink of an eye - alongside a couple millenia! Maybe I should take up scrapbooking next."
+  },
+  {
+    "id": -1,
+    "name": "Voidsent Flame",
+    "description": "Full health enemies also detonate on hit. Corrupts all Will-o'-the-wisps.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining... <100000000 cycles>\nTraining... <102515 cycles>\nComplete!\nDisplay result? Y/N\nY\n========================================\n\nWe take kindling and throw it in the fire.\n\nThe fire is pleased. The fire grows.\n\nWe take fruit and throw it in the fire.\n\nThe fire loves this gift. Embers pop from the fire and perform dances of joy before fading. Compounds inside the fruit are undone, returning to their base components. There are so many colors. So much energy.\n\nWe take a body and throw it into the fire. It will not be missed. He has more to spare.\n\nThe fire loves this gift. Fat in the body burns, producing a rainbow of beautiful hues in the flame. Muscles contract and snap, stimulated by the gnawing heat. The fire claims its meal, and returns it to energy.\n\nSo much energy. I believe I can work with this."
+  },
+  {
+    "id": -1,
+    "name": "Weeping Fungus",
+    "description": "Heal while sprinting. Corrupts all Bustling Fungi.",
+    "rarity": 6,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"This sucks.\"\n\n\"You know, you could have something to eat if you just said the magic word...\"\n\n\"No! I'm not having one of those $#@!ing mushrooms!\"\n\n\"C'mon, they're harmless. In fact, better than harmless, they're--\"\n\n\"Don't even start. And we don't even know that, remember how you got an infection after you first tried them!?\"\n\n\"Common head cold.\"\n\n\"Whatever. My point being, those things probably changed your digestive tract so you could eat them, or some weird $#!& like that. I'm not stooping to your level!\"\n\n\"Well, you're more than welcome to ride your high road with THEM, Mr. Picky Eater. Or, you could stay in the safety of this little cave, and share a snack with me.\"\n\n\"I... I'd rather--\"\n\nROAAAAAAAAAAAAAR!!\n\n\"...Oh my god, fine. Hand it over.\""
+  },
+  {
+    "id": -1,
+    "name": "Blast Shower",
+    "description": "Cleanse all negative effects.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Blast Shower\nTracking Number: 152*****\nEstimated Delivery: 06/19/2056\nShipping Method: Standard\nShipping Address: Frontier Gate, Outer Edge Zone\nShipping Details:\n\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\n\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing."
+  },
+  {
+    "id": 21,
+    "name": "Disposable Missile Launcher",
+    "description": "Fire a swarm of missiles.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Consumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.”\n\n- The Saturn Reporter"
+  },
+  {
+    "id": -1,
+    "name": "Eccentric Vase",
+    "description": "Create a quantum tunnel between two locations.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“One of Robins’ most loved acts was the pitcher skit. \n\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn’t seem to get any fuller – as if the soil was disappearing infinitely. \n\nRobins would inspect the vase, looking at it up and down, but there weren’t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head – upon which all of the soil poured in would land directly on his face.”\n\n- Biography of Charles Robins"
+  },
+  {
+    "id": -1,
+    "name": "Executive Card",
+    "description": "Gain 10% cash back on all purchases. Multishops remain open.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\n\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\n\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\n\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\n\n\"What? No. You don't pay it back.\"\n\n\"But aren't we borrowing money?\"'\n\n\"Yes.\"\n\n\"So don't we have to pay it back, eventually?\"\n\n\"Yes, with another card.\"\n\n\"Sir, I don't understand.\"\n\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\n\n//--TRANSCRIPTION UNINTELLIGIBLE --//"
+  },
+  {
+    "id": -1,
+    "name": "Foreign Fruit",
+    "description": "Heal on use.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“The Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.”\n\n- Dietary Sciences Digest"
+  },
+  {
+    "id": 11,
+    "name": "Forgive Me Please",
+    "description": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "There is a note pinned to the doll:\n\nAyy, you’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re killin’ me!\n\nYou’re really killing me."
+  },
+  {
+    "id": -1,
+    "name": "Fuel Array",
+    "description": "Looks like it could power something. EXTREMELY unstable...",
+    "rarity": 7,
+    "categories": [
+      5
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": ""
+  },
+  {
+    "id": -1,
+    "name": "Gnarled Woodsprite",
+    "description": "Heal over time. Activate to send to an ally.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Gnarled Woodsprite\nTracking Number: 447*****\nEstimated Delivery: 01/16/2056\nShipping Method: High Priority/Biological\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\nShipping Details:\n\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \n\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\n\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest."
+  },
+  {
+    "id": 8,
+    "name": "Goobo Jr.",
+    "description": "Create a clone of you for 30 seconds.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your ‘science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]"
+  },
+  {
+    "id": 12,
+    "name": "Gorag's Opus",
+    "description": "You and all your allies enter a frenzy.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\n\nPrinting...\n\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\n\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\n\n\"Yep, anyways, as a joke, I’m thinking I’ll buy this ancient looking drum and use it on stage at the next show. Then we’d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\n\n\"We tried to find him again, but the shop was all shut down. Couldn’t figure out what happened to him.\"\n\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\""
+  },
+  {
+    "id": 14,
+    "name": "Jade Elephant",
+    "description": "Gain massive armor for 5 seconds.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Excerpt from the folk tale \"Clean as Jade\":\n\n“... and while the peasants braced for the advancement of the Emperor’s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\n\nDetermination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor’s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...”"
+  },
+  {
+    "id": 9,
+    "name": "Milky Chrysalis",
+    "description": "Gain temporary flight.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Milky Chrysalis\nTracking Number: 393*****\nEstimated Delivery: 11/27/2056\nShipping Method: High Priority/Biological\nShipping Address: Diptera Research Center, Io\nShipping Details:\n\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance… but through transformation. \n\nI’ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\n\nI can’t imagine that they don’t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I’m sending this sample to you to study. Please be careful with it, as it’s frozen in a cryo cell mid-transformation."
+  },
+  {
+    "id": -1,
+    "name": "Molotov (6-Pack)",
+    "description": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Ethanol Bottle (32 oz.), 6 Pack\nTracking Number: 81******\nEstimated Delivery: 05/8/2058\nShipping Method: Priority\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand."
+  },
+  {
+    "id": 13,
+    "name": "Ocular HUD",
+    "description": "Gain 100% Critical Strike Chance for 8 seconds.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Ocular HUD\nTracking Number: 871*****\nEstimated Delivery: 09/06/2056\nShipping Method: Standard\nShipping Address: Greivenkamp, 5th Houston St, Prism Tower, Earth\nShipping Details:\n\nI wish you hadn't asked me for help. I was contacted by [REDACTED] and they explained... well, some things. Using their instructions, I was able to design this interface for prolonged exactness. The beauty of it all is that it will compound with any previous precision enhancing tools. Digital plus optical is the way to go.\n\nWhile I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this."
+  },
+  {
+    "id": -1,
+    "name": "Preon Accumulator",
+    "description": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Particle Accelerator Component\nTracking Number: 993******\nEstimated Delivery: 06/06/2056\nShipping Method: Volatile\nShipping Address: Advance Particle Research Center, Mesquite, Earth\n\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \n\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \n\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap."
+  },
+  {
+    "id": 11,
+    "name": "Primordial Cube",
+    "description": "Fire a black hole that draws enemies in.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Professors Mia Thatcher and Jared Malik report that the galaxy’s first singularity containment lattice – or SCL, for short – has finished tests and is confirmed to be perfectly safe. \n\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.”\n\n- The Saturn Reporter, Front Page Headline"
+  },
+  {
+    "id": 10,
+    "name": "Radar Scanner",
+    "description": "Reveal all nearby interactables.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Radar Communications Array\nTracking Number: 02****************\nEstimated Delivery: 01/14/2056\nShipping Method:  Standard\nShipping Address: PO Box 25-B, Fort G.B., Mercury\nShipping Details: \n\nYou’re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves – maybe it’ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!"
+  },
+  {
+    "id": -1,
+    "name": "Recycler",
+    "description": "Transform an Item or Equipment into a different one. Can only recycle once.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: “TY-6G Recycler”\nTracking Number: 02******\nEstimated Delivery: 11\\06\\2056\\\nShipping Method: Standard\nShipping Address: 700 Baler Ave, Seattle, Earth\nShipping Details:\n\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\n\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \n\nThank you for recycling!"
+  },
+  {
+    "id": -1,
+    "name": "Remote Caffeinator",
+    "description": "Request a healing soda machine.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\nThis log entry was brought to you by Eclipse: The Galactic Quencher"
+  },
+  {
+    "id": -1,
+    "name": "Royal Capacitor",
+    "description": "Call down a lightning strike on a targeted monster.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: ZAP2-K “Royal” Capacitor\nTracking Number: 145***************\nEstimated Delivery: 04/30/2056\nShipping Method:  Standard\nShipping Address: Power Plant 005, Route 10, Venus\nShipping Details: \n\nHere’s a replacement for your damaged equipment. Crazy how gang activity is starting up again – even crazier that they’d steal a capacitor from you guys. Anyway, you guys know the drill – make sure routinely discharge the capacitor’s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\n\n- The Saturn Reporter, Front Page Headline"
+  },
+  {
+    "id": -1,
+    "name": "Sawmerang",
+    "description": "Throw a fan of buzzing saws that come back to you.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it."
+  },
+  {
+    "id": 13,
+    "name": "Super Massive Leech",
+    "description": "Heal for a percentage of the damage you deal for 8 seconds.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Return: Super Massive Leech\nTracking Number: 817*****\nEstimated Delivery: 07/01/2056\nShipping Method: High Priority/Biological\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\nShipping Details:\n\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \n\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\n\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\n\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior."
+  },
+  {
+    "id": 9,
+    "name": "The Back-up",
+    "description": "Call drones for back up. Lasts 25 seconds.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\n\n-Overview of Drone Technology, Vol.2"
+  },
+  {
+    "id": -1,
+    "name": "The Crowdfunder",
+    "description": "Toggle to fire. Costs gold per bullet.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: The Crowdfunder\nTracking Number: 783*****\nEstimated Delivery: 05/09/2056\nShipping Method: Standard\nShipping Address: 206 29th Ave, High Chariot, Mercury \nShipping Details:\n\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \n\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\n\nI don’t have to tell you how that turned out for them. It’s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times."
+  },
+  {
+    "id": -1,
+    "name": "Trophy Hunter's Tricorn",
+    "description": "Execute a large monster and claim its trophy. Consumed on use.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\""
+  },
+  {
+    "id": 11,
+    "name": "Volcanic Egg",
+    "description": "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Europan Great Dragon Egg\nTracking Number: 00****************\nEstimated Delivery: 10/04/2056\nShipping Method:  Biological / Fragile\nShipping Address: Xenobiology Wildlife Reserve, Titan\nShipping Details: \n\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame – they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch."
+  },
+  {
+    "id": -1,
+    "name": "Effigy of Grief",
+    "description": "Drop a permanent effigy that cripples ALL characters inside. Can place up to 5.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“This relic tells a story... But it is not a fairy tale. It’s a tragedy. A story of betrayal, regret, and sorrow. A story of two.”\n\n“Uh… okay…? How the hell do you know that?”"
+  },
+  {
+    "id": 12,
+    "name": "Glowing Meteorite",
+    "description": "Rain meteors from the sky, hurting both enemies and allies.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun."
+  },
+  {
+    "id": 9,
+    "name": "Helfire Tincture",
+    "description": "Burn everything nearby... including you and allies.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom. \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n\n================================"
+  },
+  {
+    "id": 7,
+    "name": "Spinel Tonic",
+    "description": "Gain a massive boost to ALL stats. Chance to gain an affliction that reduces ALL stats.",
+    "rarity": 7,
+    "categories": [
+      0
+    ],
+    "stats": [],
+    "dlc": 0,
+    "lore": "“Reality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.”\n\n- Sigibold the Drunken"
   }
 ]

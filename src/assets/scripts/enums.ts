@@ -14,7 +14,8 @@ export enum Category {
     Damage,
     Healing,
     Scrap,
-    Utility
+    Utility,
+    Equipment
 }
 
 export enum Sort {
