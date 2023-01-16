@@ -13,6 +13,7 @@
         "additional": "+20%"
       }
     ],
+    "dlc": 0,
     "lore": "Order: Armor-Piercing Rounds, 50mm\nTracking Number: 15***********\nEstimated Delivery: 3/07/2056\nShipping Method:  Standard\nShipping Address: Fort Margaret, Jonesworth System\nShipping Details: \n\nAlright, just to clarify, these rounds aren’t faulty. Heck, I’d say they’re better than the standard, but... that’s kind of the problem. I don’t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \n\nCould you guys look into this so we don’t like, violate any Geneva Conventions or anything?"
   },
   {
@@ -29,6 +30,7 @@
         "additional": "+1"
       }
     ],
+    "dlc": 0,
     "lore": "Order: Ammo Magazine, Standard Ammunition (45mm Rounds)\nTracking Number: 05***********\nEstimated Delivery: 10/05/2056\nShipping Method:  Priority\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\nShipping Details: \n- Billed to: Captain [REDACTED]\n- Note from Sender:  You going on a hunting trip or something? I’ve never seen anyone order this much ammo before."
   },
   {
@@ -45,6 +47,7 @@
         "additional": "25"
       }
     ],
+    "dlc": 0,
     "lore": "Order: Assorted Saturnian Bison Steak, 10lbs\nTracking Number: 31***********\nEstimated Delivery: 11/02/2056\nShipping Method:  Standard\nShipping Address: Sloppy Joe’s Deli and Catering, Manhattan, New York\nShipping Details: \n\nFOR: JOSEPH ******\nCC#: **** **** * ***\nACCT#: 102215\nQuality Saturnian Bison Meat [10lbs]\nTreated with special antibiotics to ensure exceptional growth, shelf life, and texture."
   },
   {
@@ -61,6 +64,7 @@
         "additional": "4"
       }
     ],
+    "dlc": 0,
     "lore": "\"Hey, happy anniversary!\n\nYou really thought I forgot?\n\nAh, I thought I was the dumb one in our relationship. C'mon T, of course not! Well, I wasn't going to let a little alien death planet ruin our night. Right? Shh, just watch. Just watch. It's okay. Just watch. You'll love it - you really will. Then we can go home.\n\nYou can keep your eyes closed. Just listen. Ah - here it comes! In five... four... three... two... ONE...!\""
   },
   {
@@ -82,7 +86,9 @@
         "stack": "Linear",
         "additional": "+1.5m"
       }
-    ]
+    ],
+    "dlc": 0,
+    "lore": "Order: To-Go Coffee Cup, 16 ounces\nTracking Number: 32******\nEstimated Delivery: 05/04/2058\nShipping Method: Standard\nShipping Address: Museum of Natural History, Ninten Island, Earth\nShipping Details:\nMy finest brew. Hope it doesn't spoil during transit. Remember to heat it back up to 176.23 degrees... that's when it's freshest. See you soon... Coo."
   },
   {
     "id": 27,
@@ -98,6 +104,7 @@
         "additional": "+3"
       }
     ],
+    "dlc": 0,
     "lore": "“One of the most crucial things to remember about having an animal companion is that your relationship is built on trust. Though humans are perceptive, we tend to be blinded by what we see – and we ignore the dangers that lurk beyond our vision. Animals, and other xenobiology, can sense things we can’t. \n\nSo always remember: if your companion warns you of danger in the dark, you had better well listen.”\n\n- Caring for your Pets, Volume III"
   },
   {
@@ -114,10 +121,11 @@
         "additional": "+75%"
       }
     ],
+    "dlc": 0,
     "lore": "//--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --//\n\n“Hey, toss me a crowbar?”\n\nJesse walked over to the toolbox and rummaged around. Plucking a crowbar from the container, she went over to James.\n\n“Thanks,” he grunted, attempting to pry the chest open. Jesse sat herself on the table next to James, idly watching him work. “I swear, this had to be the one chest that CAN’T be paid open... Crash must have... broken the circuitry inside.” James mumbled to himself.\n\n“Yeah.” Jesse looked around, her eyes falling on a palette of chests that had been recovered from the recent expeditions. Sighing, she hopped to her feet. “I’m heading to the mess hall. Want anything?” \n\n“Yeah, how about a better crowbar? This thing is only a second edition.” James stretched, tossing the crowbar over his shoulder. Patting the still unopened chest, he chuckled. “It’s good, but to be honest… it’s getting a little old.”\n\nJesse laughed."
   },
   {
-    "id": 0,
+    "id": -1,
     "name": "Delicate Watch",
     "description": "Deal bonus damage. Breaks at low health.",
     "rarity": 1,
@@ -130,6 +138,7 @@
         "additional": "+20%"
       }
     ],
+    "dlc": 1,
     "lore": "The wind blows over the plains. Two soldiers trudge along on their routine patrol, filling their boredom with casual conversation. \"Hm. Hey, Shelly, have I ever showed you my new Patex?\" Quinton mused. Shelly shot him a quizzical look. \"Tell me you didn't bring a $75,000 watch with you on a dangerous expedition into unknown territories...\"\n\nWhirling around to face his partner, Quinton gave a hearty laugh. \"Why, yes I did!\" Rolling up his sleeve, a glint of gold revealed his collector's watch. The metal surface gleamed proudly, reflecting a ray of sunlight into the eyes of a hidden Lemurian. \"What's the point of going through trials and tribulations in the middle of nowhere if I can't STYLE all over my fellow soldiers!?\" Quinton laughed, pounding his fist to his chest. \"I'm going to rub it in your face SO HARD when that thing inevitably breaks,\" Shelly chuckled. Quinton scoffed. \"Oh, please. We've been along this route countless times, and nothing's happened. We're lucky to be stationed on a quiet sector of this hellhole, and I doubt our luck will run out any time soon.\"\n\nAs if on cue, the aggrivated Lemurian, annoyed by the glare, leapt from the bushes and shot a fireball. \"Woah!\" Shelly shouted, raising her gun and killing the beast. \"Hah... So much about a quiet, sector, huh?\" Shelly turned to her partner, who was doubled over on the ground. Shelly's face blanched.\n\n\"Oh no... Were you hit? We need to get you to a medic, fast...!\"\n\n\"No.\" Quinton's voice was small and full of grief. \"I'm perfectly fine, but...\" Quinton looked up, revealing his gleaming Patex, having taken the fireball dead-on, had been reduced to a mangled mess of twisted metal and smoking polish. \"L-Look what that BEAST did to my precious watch!\"\n\nFor a moment, all was quiet on the plains. Then, the silence was yet again broken by Shelly's laughter and Quinton's desperate pleading."
   },
   {
@@ -146,6 +155,361 @@
         "additional": "+25%"
       }
     ],
+    "dlc": 0,
     "lore": "Order: NR-G Sports Soda (400)\nTracking Number: 49******\nEstimated Delivery: 03/12/2056\nShipping Method:  Standard\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\nShipping Details:\n\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \n\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\n\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?"
+  },
+  {
+    "id": 87,
+    "name": "Focus Crystal",
+    "description": "Deal bonus damage to nearby enemies.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "20%",
+        "stack": "Linear",
+        "additional": "+20%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]\nTracking Number: 12***********\nEstimated Delivery: 05/23/2056\nShipping Method: Standard\nShipping Address: Geofferson Principality, Highward, Titan\nShipping Details: \n\nHope they don’t up the price for this thing. I haven’t had troubles with UES before, but I’ve never had to ship a crystal this far before. Let me know if the package is marked as “heavy” when you get it."
+  },
+  {
+    "id": 39,
+    "name": "Gasoline",
+    "description": "Killing an enemy ignites other nearby enemies.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Damage",
+        "value": "150%",
+        "stack": "Linear",
+        "additional": "+75%"
+      },
+      {
+        "stat": "Radius",
+        "value": "12m",
+        "stack": "Linear",
+        "additional": "+4m"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Audio transcription complete from signal echoes. Assigning generic tokens.\n\n[Fire crackling]\n\nMAN 1: D-do you think they're gonna come for us?\n\nMAN 2: They'll try. It's going to be a very long while.\n\nMAN 1: What? Why?\n\nMAN 2: A long while. Even if they know where to look we'd be months out from the nearest port. And that's if they even have any ships as fast as ours – FTL ships are very rare nowadays.\n\nMAN 1: Months...?! And what do you mean if they know where? What about the other ships on our shipping routes?\n\nMAN 2: We weren't on the route.\n\n[Fire pops]\n\nMAN 1: What?!\n\nMAN 2: We should've been halfway to Procyon by the time we crashed... but we weren’t. The ship never announced it was slowing down either, so that’ll make triangulating our positions even harder.\n\nMAN 1: I-I don't get it. Who would take a UES train off course? That's completely insane!\n\nMAN 2: I don’t know – only the Captain does. There’s no reason to slow down in this star system - there's not even supposed to be a habitable planet out here.\n\n[Sizzling]\n\nMAN 2: This looks cooked to me. Can't vouch for how it'll taste - but we have to eat.\n\nMAN 1: I... I can't even think right now. I’m not hungry.\n\nMAN 2: Eat. We've got a lot of traveling to do tomorrow and we'll need to keep our strength.\n\nMAN 1: Sure. Okay. Okay. Um… do you think it's poisonous?\n\nMAN 2: Eat.\n\nEnd of requested transcript. "
+  },
+  {
+    "id": -1,
+    "name": "Item Scrap, White",
+    "description": "Does nothing. Prioritized when used with 3D Printers.",
+    "rarity": 1,
+    "categories": [3],
+    "stats": [],
+    "lore": "“While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”\n\n- The Ultimate Hobby Guide: Kitbashing and 3D Printing"
+  },
+  {
+    "id": 7,
+    "name": "Lens-Maker's Glasses",
+    "description": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Critical Chance",
+        "value": "10%",
+        "stack": "Linear",
+        "additional": "+10%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "…What I didn’t see was that the golem was aiming its laser at my back. I managed to barely dodge it - just by pure luck - but the blast knocked me to the ground. My glasses flew off my face and I was on my back, stunned, barely able to make sense of myself…\n\nAnd then... well, I can’t really explain what happened next. Adrenaline, some kind of divine intervention, I dunno. But I reached out, and managed to grab my glasses, raise ‘em up to my eyes so I could see, and BAM! Fired the last of my bullets.\n\nAnd, well... I guess I managed to hit something vital in its head. Exploded in red stone and glass. It stopped moving after that. \n\nIf it wasn’t for that shot, I wouldn’t be here telling this story.”\n\n-Signal echoes, UES Contact Light"
+  },
+  {
+    "id": 36,
+    "name": "Medkit",
+    "description": "Receive a delayed heal after taking damage.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Heal",
+        "value": "5%",
+        "stack": "Linear",
+        "additional": "+5%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "\"I suggest you stay indoors and rest.\"\n\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\n\n\"I suggest you stay indoors and rest.\"\n\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\n\n\"I suggest you stay indoors and rest.\" \n\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\n\n\"I suggest you stay indoors and rest.\" \n\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\n\n\"Please stay indoors and rest.\""
+  },
+  {
+    "id": -1,
+    "name": "Mocha",
+    "description": "Slightly increase attack speed and movement speed.",
+    "rarity": 1,
+    "categories": [1, 2],
+    "stats": [
+      {
+        "stat": "Attack Speed",
+        "value": "7.5%",
+        "stack": "Linear",
+        "additional": "+7.5%"
+      },
+      {
+        "stat": "Movement Speed",
+        "value": "7%",
+        "stack": "Linear",
+        "additional": "+7%"
+      }
+    ],
+    "dlc": 1,
+    "lore": "Order: To-Go Coffee Cup, 16 ounces\nTracking Number: 32******\nEstimated Delivery: 05/04/2058\nShipping Method: Standard\nShipping Address: Museum of Natural History, Ninten Island, Earth\nShipping Details:\nMy finest brew. Hope it doesn't spoil during transit. Remember to heat it back up to 176.23 degrees... that's when it's freshest. See you soon... Coo."
+  },
+  {
+    "id": 6,
+    "name": "Monster Tooth",
+    "description": "Drop a healing orb on kill.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Health per Orb",
+        "value": "2%",
+        "stack": "Linear",
+        "additional": "+2%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM ROOM 5041C OF UES [Redacted] --//\n\n“Hey, nice duds! Where’d you grab those?”\n\n“Oh, this old thing? I’ve been making it, actually.”\n\n“Making it?”\n\n“Yeah, well, I found the first tooth in one of the chests. But every time we go out on patrol, we typically run into more of those aliens. Once we take care of ‘em, I try to pick myself out a souvenir. Y’know, to add to my collection.”\n\n“Wow, uh… Is that like, allowed? I feel like that’s not allowed.”\n\n“Eh, what the captain doesn’t know won’t hurt him. Besides, it IS cool, right?”\n\n“I guess so. I’ll be honest man, that’s creepy as hell… but hey, do you have any more string? I might start one of my own.”"
+  },
+  {
+    "id": -1,
+    "name": "Oddly-shaped Opal",
+    "description": "Reduce damage the first time you are hit.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Armor",
+        "value": "100",
+        "stack": "Linear",
+        "additional": "+100"
+      }
+    ],
+    "dlc": 1,
+    "lore": "//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//\n\n\"...You think this planet is as bad as they say?\"\n\nLiz sat in silence among her fellow soldiers. She, like the rest of her squadron, had been taken from the middle of a firefight in the galactic outback and brought before an old UES veteran. Liz was used to debriefing by now, it all blended together in her head. Something about monsters, and the missing UES Contact Light.\n\n\"...Dunno.\" Liz murmured as she turned a small, oddly-shaped hunk of opal in her hand. It was one of the only things she had that reminded her of Parker. Of when things were calm, and peaceful.\n\n\"...Heh, I don't think a shiny rock will do much,\" A soldier joked. Liz's brow furrowed under her helmet. \"Yeah, probably not... but...\"\n\nLiz took a deep breath and slipped the opal back into her pocket. \"It just helps.\""
+  },
+  {
+    "id": 8,
+    "name": "Paul's Goat Hoof",
+    "description": "Increase movement speed.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Movement Speed",
+        "value": "14%",
+        "stack": "Linear",
+        "additional": "+14%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Paul’s Goat Hoof\nTracking Number: 187*****\nEstimated Delivery: 03/27/2056\nShipping Method: Standard\nShipping Address: 2663rd Fields, Redmond, Venus\nShipping Details:\n\nA hoof from one of my many goats; I noticed one day that one of my goats had an abnormally large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold - it was. My goat died shortly after."
+  },
+  {
+    "id": 29,
+    "name": "Personal Shield Generator",
+    "description": "Gain a recharging shield.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Shield",
+        "value": "8%",
+        "stack": "Linear",
+        "additional": "+8%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "\"While the kinetic rating is very poor, the extremely cheap production costs of Hinon’s Personal Barrier made it a great budget tool for hikers, sailors, and even daily commuters to be comfortable in harsh weather. Many people in the office figured out they could replace their expensive winter jackets with comfortable, trendy personal barriers!\"\n\n-Top 10 Best Personal Barriers of 2053"
+  },
+  {
+    "id": -1,
+    "name": "Power Elixir",
+    "description": "Receive an instant heal at low health. Consumed on use.",
+    "rarity": 1,
+    "categories": [2],
+    "stats": [
+      {
+        "stat": "Heal",
+        "value": "75%",
+        "stack": "Linear",
+        "additional": "+75%"
+      }
+    ],
+    "dlc": 1,
+    "lore": "Order: 16 oz. Flask, Healing Potion (Not my Strongest)\nTracking Number: 10******\nEstimated Delivery: 12/31/2058\nShipping Method: Priority\nShipping Address: Cargo Bay 10-C, Terminal 504-B, UES Port Trailing Comet\nShipping Details: \n- Re: Potion seller, I am going into battle. I require your strongest potions.\n\nMy potions are too strong for you, buyer. I've instead downgraded you to a weaker brew. My strongest potions would kill a dragon, let alone a man!"
+  },
+  {
+    "id": 102,
+    "name": "Repulsion Armor Plate",
+    "description": "Receive flat damage reduction from all attacks.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Damage Reduction",
+        "value": "5",
+        "stack": "Linear",
+        "additional": "+5"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Repulsion Armor Replacement Piece\nTracking Number: 09******\nEstimated Delivery: 08/15/2056\nShipping Method: Standard\nShipping Address: System Police Station 13, Port of Marv, Ganymede\nShipping Details:\n\nLuckily no one was hurt during the shootout. Just a few rough characters at the bar by the docks. Nothing we couldn’t handle. Jaime took a shot to his shoulder but his armor took all the impact. We’ll need to order him a replacement part before he can go back out in the field.\n\nThe segmented design is nice because I don’t have to shell out the cash for a whole new set. Frankly, the station’s coffers have seen better days. The next time a rookie damages their equipment they might be looking at a desk job for a while."
+  },
+  {
+    "id": -1,
+    "name": "Roll of Pennies",
+    "description": "Gain gold on taking damage.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Base Gold",
+        "value": "3",
+        "stack": "Linear",
+        "additional": "+1"
+      }
+    ],
+    "dlc": 1,
+    "lore": "The sounds of gunfire rang in Johnson's ears. Biting down and tugging on the bandage covering his wounded leg, he hastily reloaded his firearm.\n\nFor a moment, before he fired on the Lemurians who had pinned his team into a corner and already claimed two of his friends, Johnson reflected on what brought him here.\n\nJohnson had grown up in poverty, the oldest of three children. He had started working at a young age to support his sick mother and younger siblings, and all his life he bounced from one odd job to the next. Anything that could rake in the cash. Anything that would pay the bills.\n\n\"'An expedition into unknown territories, seeking volunteers,'\" his recruiter read in between puffs of his cigar. \"Lot of classified info, don't know too much myself... But it pays a lot. And I know you need the money. You in, Johnny-boy?\" At the time, Johnson had thought to himself, 'it couldn't be that bad.'\n\nJohnson returned to the battlefield, gunning down Lemurians in an effort to save his remaining friends. The wound on his leg ached, dying the bandage red with blood. 'It couldn't be that bad,' he had thought. \"Yeah, right.\" Johnson scoffed. \"At least I'm getting paid after this.\""
+  },
+  {
+    "id": 60,
+    "name": "Rusted Key",
+    "description": "Gain access to a Rusty Lockbox that contains a powerful item.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [],
+    "dlc": 0,
+    "lore": "Order: Key\nTracking Number: 12******\nEstimated Delivery: 01/21/2056\nShipping Method: Standard\nShipping Address: |||||||, Druid Hills, Earth\nShipping Details:\n\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\n\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this."
+  },
+  {
+    "id": 0,
+    "name": "Soldier's Syringe",
+    "description": "Increase attack speed.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Attack Speed",
+        "value": "15%",
+        "stack": "Linear",
+        "additional": "+15%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "\"I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!\"\n\n-Signal echoes, UES Contact Light"
+  },
+  {
+    "id": 59,
+    "name": "Sticky Bomb",
+    "description": "Chance on hit to attach a bomb to enemies.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Chance",
+        "value": "5%",
+        "stack": "Linear",
+        "additional": "+5%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.\n\nShe heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.\n\n\"Woah, what the hell?! Why are you holding like, fifty bombs? Get away from me! \"\n\n\"What! We need these – this planet is trying to kill us! \"\n\n\"You’re a walking bomb. Those are so unstable. Get away! Where did you even find those things? \"\n\n\"I found an industrial 3D printer nearby, and it was assigned to the blueprints of these bombs. Awesome, right? Unlimited bombs!\"\n\n\"…What materials?\"\n\n\"Huh?\"\n\n\"What materials did you put in? We barely had anything.\"\n\n\"I just put in everything.\""
+  },
+  {
+    "id": 41,
+    "name": "Stun Grenade",
+    "description": "Chance to stun on hit.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Chance",
+        "value": "5%",
+        "stack": "Hyperbolic",
+        "additional": "5%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM CARGO BAY 2 OF UES [Redacted] --//\n“Inventory duty. I swear, this must be the most boring position ever...” Two crewmates stood in the cargo bay, doing a routine check on the items gathered from the Contact Light’s wreckage. “Some of us are out there having adventures and fighting aliens, and I’M stuck in here counting dusty knick-knacks. What a bummer.” The other crewmate idly tapped at their device as their colleague rummaged through a container of recovered items.\n\n“Can’t agree there. The Contact Light had millions of items in transit... It’s like a collage of people’s interests from all across the galaxy.” The other crew member scoffed. “Oh yeah? That’s really inspiring. Say, keep telling those stories, maybe it’ll make this go by quicker.”\n\n“You just need to look at this from a different angle. There’s so much cool stuff in here! Like, for example...” The worker took something out of a container – glancing over at their colleague, the other worker stiffened.\n\n“What the—is that a grenade!?” \n\nThe worker laughed, tossing the dusty and dirty grenade from hand to hand. “Yeah. Don’t worry, thing was damaged in the crash. See? Completely harmless.” Holding the grenade up, a large dent was visible in its hull. “Man, I wonder what kind of model this is... I was always super interested in like, weaponry and stuff. Hm... looks to be a flashbang... old model, they don’t make these things anymore.” \n\nThe other worker was not so thrilled. “I still don’t think you should play with that. That’s not a toy.” Squinting, the other worker realized in horror that the defunct grenade had no pin. “D-DUDE! Put that thing down, there’s no pin!”\n\n“Huh? Oh, come on! Stop being such a buzzkill! This thing is busted beyond repair. It can’t even detonate, not even if I were to say... bang it against this table. Watch, I’ll show you.”\n\nThey were both admitted to the medical bay shortly after."
+  },
+  {
+    "id": 84,
+    "name": "Topaz Brooch",
+    "description": "Gain a temporary barrier on kill.",
+    "rarity": 1,
+    "categories": [2, 4],
+    "stats": [
+      {
+        "stat": "Barrier",
+        "value": "15",
+        "stack": "Linear",
+        "additional": "+15"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Order: Topaz Brooch\nTracking Number: 442*****\nEstimated Delivery: 05/05/2056\nShipping Method: High Priority\nShipping Address: Locker #2, Parghos Resort, Venus\nShipping Details:\n\nThe locker combination is 33941. Inside the package, besides your standard equipment, you will find the brooch. The appearance of this item is meant to blend in at the party. Pin it to your body and the software inside will map your extents. Activation will briefly cover you in ultra-phasic shielding.\n\nWhen you have taken out the target, the shield will switch on to protect you from any immediate retaliation measures they have installed in the security system. If the time frame is not enough to make your escape, the shield can be... reactivated, but we’d like to keep casualties to a minimum.\n\nGood luck."
+  },
+  {
+    "id": 1,
+    "name": "Tougher Times",
+    "description": "Chance to block incoming damage.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Block Chance",
+        "value": "15%",
+        "stack": "Hyperbolic",
+        "additional": "+15%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//\n\n\"Why'd you sign up?\"\n\nWyatt's voice was bored. The mission to the Contact Light's last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that's it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I'm here to find something.\" He continued. \"I shipped it a few years back, but I don't think it made it before the train went down. I'm guessing it's still in the Contact Light. So I'm gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It's all gone, Wyatt.\"\n\nHe grinned. \"I think I'm gonna find it.\"\n\n\"You're terrible.\""
+  },
+  {
+    "id": 20,
+    "name": "Tri-Tip Dagger",
+    "description": "Gain +10% chance to bleed enemies on hit.",
+    "rarity": 1,
+    "categories": [1],
+    "stats": [
+      {
+        "stat": "Chance to Bleed",
+        "value": "10%",
+        "stack": "Linear",
+        "additional": "+10%"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Welcome to DataScraper (v3.1.53 – beta branch)\n$ Scraping memory... done.\n$ Resolving... done.\n$ Combing for relevant data... done.\nComplete!\n\n\nThe following is an audio transcript from the trial of D. Cooper, wanted for 5 counts of serial manslaughter.\n\n“Mr. Cooper, do you recognize this item?”\n\n“I do.”\n\n“Is it true that you used this weapon on your victims?”\n\n“Yes.”\n\n“And, Mr. Cooper, is it true that... that you would use this dagger to expose the healed wounds of your victims? In an attempt to spill yet more innocent blood from them?”\n\n“Oh yes. Was my favorite part.”\n\n“Your favorite part, you say. Ladies and gentlemen of the jury, I think you all can see that Mr. Cooper is a truly deranged man - who took the lives of countless innocent people. However, if you are not fully convinced, I have one more piece of evidence to provide for the jury’s consideration. Your honor, if I may prepare an audio recording of Mr. Cooper?”\n\n“Proceed.”\n\n“Thank you, your honor. Now, please play back the recording.”\n\nThe remainder of this court transcript has been sealed.\nReason: i think im gonna be sick"
+  },
+  {
+    "id": 24,
+    "name": "Warbanner",
+    "description": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+    "rarity": 1,
+    "categories": [4],
+    "stats": [
+      {
+        "stat": "Radius",
+        "value": "16m",
+        "stack": "Linear",
+        "additional": "+8m"
+      }
+    ],
+    "dlc": 0,
+    "lore": "Heavy losses were expected – after all, the invaders were as cunning as they were deadly. \n\nThe dust had at last settled. The Golems had returned to the earth, and the Lemurians had returned to their tunnels. It was a long and grueling battle, but they had won. The invaders had been purged.\n\nThe only proof of their last stand was a single banner, fluttering in the wind, flying over a mountain of corpses."
   }
 ]
