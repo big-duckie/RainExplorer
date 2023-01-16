@@ -3,6 +3,7 @@
     "id": 61,
     "name": "Armor-Piercing Rounds",
     "description": "Deal extra damage to bosses.",
+    "info": "Additional damage is 20% of your base damage. Stacks linearly.",
     "rarity": 1,
     "categories": [
       1
@@ -60,6 +61,7 @@
     "id": 42,
     "name": "Bundle of Fireworks",
     "description": "Activating an interactable launches fireworks at nearby enemies.",
+    "info": "Launch 8 fireworks that deal 300% damage. Each additional stack adds 4 more fireworks.",
     "rarity": 1,
     "categories": [
       1
@@ -79,6 +81,7 @@
     "id": 16,
     "name": "Bustling Fungus",
     "description": "Heal all nearby allies after standing still for 1 second.",
+    "info": "The zone heals all allies within 3 meters by 4.5% of your max health. Additional stacks increase the healing by 2.25% and the radius by 1.5 meters.",
     "rarity": 1,
     "categories": [
       2
@@ -123,6 +126,7 @@
     "id": 17,
     "name": "Crowbar",
     "description": "Deal bonus damage to enemies above 90% health.",
+    "info": "Additional damage is 75% of your base damage per stack.",
     "rarity": 1,
     "categories": [
       1
@@ -142,6 +146,7 @@
     "id": -1,
     "name": "Delicate Watch",
     "description": "Deal bonus damage. Breaks at low health.",
+    "info": "Extra damage is 20% per stack. This item breaks if your health is below 25%. If broken it cannot be scrapped.",
     "rarity": 1,
     "categories": [
       1
@@ -180,6 +185,7 @@
     "id": 87,
     "name": "Focus Crystal",
     "description": "Deal bonus damage to nearby enemies.",
+    "info": "The range of the area is 13 meters. Damage is increased by 20% per stack.",
     "rarity": 1,
     "categories": [
       1
@@ -199,6 +205,7 @@
     "id": 39,
     "name": "Gasoline",
     "description": "Killing an enemy ignites other nearby enemies.",
+    "info": "The ignition area is 12 meters with each additional stack adding 4 meters. Also increases burn damage by 150% with an additional 75% per stack.",
     "rarity": 1,
     "categories": [
       1
@@ -1523,7 +1530,7 @@
     "description": "Seems to do nothing... but...",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1535,7 +1542,7 @@
     "description": "Gain gold on hit... BUT surrender gold on getting hit.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1547,7 +1554,7 @@
     "description": "Double your healing... BUT it's applied over time.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1559,7 +1566,7 @@
     "description": "Using a Shrine summons enemies nearby.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1571,7 +1578,7 @@
     "description": "Gain multiple orbiting bombs. Every minute, assimilate another item into Egocentrism.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1583,7 +1590,7 @@
     "description": "Replace your Special Skill with 'Ruin'.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1595,7 +1602,7 @@
     "description": "Items and equipment have a small chance to transform into a Lunar item instead.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1607,7 +1614,7 @@
     "description": "Increase the speed of Teleporter charging... BUT reduce the size of the zone.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1619,7 +1626,7 @@
     "description": "Dramatically reduce Equipment cooldown... BUT it automatically activates.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1631,7 +1638,7 @@
     "description": "Replace your Secondary Skill with 'Slicing Maelstrom'.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1643,7 +1650,7 @@
     "description": "Halve your cooldowns.. BUT halve your attack speed.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1655,7 +1662,7 @@
     "description": "Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1667,7 +1674,7 @@
     "description": "Reduce your skill cooldowns by 2 seconds. You are unlucky.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1679,7 +1686,7 @@
     "description": "Double your damage... BUT halve your health.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1691,7 +1698,7 @@
     "description": "Double your health... BUT halve your speed.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1703,7 +1710,7 @@
     "description": "Replace your Utility Skill with 'Shadowfade'.",
     "rarity": 5,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1715,7 +1722,7 @@
     "description": "Convert all your health into shield. Increase maximum health.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1727,7 +1734,7 @@
     "description": "Replace your Primary Skill with 'Hungering Gaze'.",
     "rarity": 5,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1739,7 +1746,7 @@
     "description": "Upgrades your items at the start of each stage. Corrupts all 57 Leaf Clovers.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1751,7 +1758,7 @@
     "description": "Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1763,7 +1770,7 @@
     "description": "Gain a 0.5% chance to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1775,7 +1782,7 @@
     "description": "Add an extra charge of your Special skill. Corrupts all Fuel Cells.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1787,7 +1794,7 @@
     "description": "Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1799,7 +1806,7 @@
     "description": "Periodically recruit allies from the Void. Corrupts all yellow items.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1811,7 +1818,7 @@
     "description": "While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1823,7 +1830,7 @@
     "description": "Get a corrupted extra life. Consumed on use. Corrupts all Dio's Best Friends.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1835,7 +1842,7 @@
     "description": "Chance to repeatedly strike a single enemy with lightning. Corrupts all Ukuleles.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1847,7 +1854,7 @@
     "description": "Block the next source of damage. Corrupts all Tougher Times.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1859,7 +1866,7 @@
     "description": "High damage hits also create unstable black holes. Recharges over time. Corrupts all Runald's and Kjaro's Bands.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1871,7 +1878,7 @@
     "description": "Chance to root enemies on hit. Corrupts all Chronobaubles.",
     "rarity": 6,
     "categories": [
-      0
+      4
     ],
     "stats": [],
     "dlc": 0,
@@ -1883,7 +1890,7 @@
     "description": "Full health enemies also detonate on hit. Corrupts all Will-o'-the-wisps.",
     "rarity": 6,
     "categories": [
-      0
+      1
     ],
     "stats": [],
     "dlc": 0,
@@ -1895,7 +1902,7 @@
     "description": "Heal while sprinting. Corrupts all Bustling Fungi.",
     "rarity": 6,
     "categories": [
-      0
+      2
     ],
     "stats": [],
     "dlc": 0,
@@ -1907,7 +1914,7 @@
     "description": "Cleanse all negative effects.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1919,7 +1926,7 @@
     "description": "Fire a swarm of missiles.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1931,7 +1938,7 @@
     "description": "Create a quantum tunnel between two locations.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1943,7 +1950,7 @@
     "description": "Gain 10% cash back on all purchases. Multishops remain open.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1955,7 +1962,7 @@
     "description": "Heal on use.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1967,7 +1974,7 @@
     "description": "Throw a cursed doll that repeatedly triggers your 'On Kill' effects.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -1991,7 +1998,7 @@
     "description": "Heal over time. Activate to send to an ally.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2003,7 +2010,7 @@
     "description": "Create a clone of you for 30 seconds.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2015,7 +2022,7 @@
     "description": "You and all your allies enter a frenzy.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2027,7 +2034,7 @@
     "description": "Gain massive armor for 5 seconds.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2039,7 +2046,7 @@
     "description": "Gain temporary flight.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2051,7 +2058,7 @@
     "description": "Throw 6 flaming molotovs that ignite enemies upon shattering.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2063,7 +2070,7 @@
     "description": "Gain 100% Critical Strike Chance for 8 seconds.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2075,7 +2082,7 @@
     "description": "Fire a ball of energy that electrocutes nearby enemies before detonating.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2087,7 +2094,7 @@
     "description": "Fire a black hole that draws enemies in.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2099,7 +2106,7 @@
     "description": "Reveal all nearby interactables.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2111,7 +2118,7 @@
     "description": "Transform an Item or Equipment into a different one. Can only recycle once.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2123,7 +2130,7 @@
     "description": "Request a healing soda machine.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2135,7 +2142,7 @@
     "description": "Call down a lightning strike on a targeted monster.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2147,7 +2154,7 @@
     "description": "Throw a fan of buzzing saws that come back to you.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2159,7 +2166,7 @@
     "description": "Heal for a percentage of the damage you deal for 8 seconds.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2171,7 +2178,7 @@
     "description": "Call drones for back up. Lasts 25 seconds.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2183,7 +2190,7 @@
     "description": "Toggle to fire. Costs gold per bullet.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2195,7 +2202,7 @@
     "description": "Execute a large monster and claim its trophy. Consumed on use.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2207,7 +2214,7 @@
     "description": "Transform into a speeding draconic fireball, dealing damage as you pass through enemies.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2219,7 +2226,7 @@
     "description": "Drop a permanent effigy that cripples ALL characters inside. Can place up to 5.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2231,7 +2238,7 @@
     "description": "Rain meteors from the sky, hurting both enemies and allies.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2243,7 +2250,7 @@
     "description": "Burn everything nearby... including you and allies.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
@@ -2253,9 +2260,10 @@
     "id": 7,
     "name": "Spinel Tonic",
     "description": "Gain a massive boost to ALL stats. Chance to gain an affliction that reduces ALL stats.",
+    "info": "Gain a various boosts for 20 seconds. Increases damage by +100%, attack speed by +70%, armor by +20, maximum health by +50%, health regeneration by +300%, and move speed by +30%.\n\nAfter 20 seconds get a 20% chance to get the Tonic Affliction debuff, reducing all stats by -5%.",
     "rarity": 7,
     "categories": [
-      0
+      5
     ],
     "stats": [],
     "dlc": 0,
