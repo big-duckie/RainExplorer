@@ -90,11 +90,57 @@ export default defineComponent({
     RarityToString(rarity: Rarity): string {
       // On compile rarity becomes a number.
       return Rarity[rarity].toString();
-    }
+    },
+    StringToRarity(str: string): Rarity {
+      return (Object.keys(Rarity).includes(str)) ? (<any>Rarity)[<any> str] : Rarity.All;
+    },
+    CategoryToString(category: Category): string {
+      // On compile rarity becomes a number.
+      return Category[category].toString();
+    },
+    StringToCategory(str: string): Category {
+      return (Object.keys(Category).includes(str)) ? (<any>Category)[<any> str] : Category.All;
+    },
+    OrderToString(order: Sort): string {
+      // On compile rarity becomes a number.
+      return Sort[order].toString();
+    },
+    StringToOrder(str: string): Sort{
+      return (Object.keys(Sort).includes(str)) ? (<any>Sort)[<any> str] : Sort.Default;
+    },
   },
   watch: {
     title() {
       document.title = this.title;
+    },
+    search() {
+      let hash = new URLSearchParams(window.location.hash.substring(1));
+      if (this.search != "") hash.set("q", this.search); else hash.delete("q");
+      window.location.hash = `#${hash.toString()}`;
+    },
+    rarityFilter() {
+      let hash = new URLSearchParams(window.location.hash.substring(1));
+      if (this.rarityFilter != Rarity.All) hash.set("r", this.RarityToString(this.rarityFilter)); else hash.delete("r");
+      window.location.hash = `#${hash.toString()}`;
+    },
+    categoryFilter() {
+      let hash = new URLSearchParams(window.location.hash.substring(1));
+      if (this.categoryFilter != Category.All) hash.set("c", this.CategoryToString(this.categoryFilter)); else hash.delete("c");
+      window.location.hash = `#${hash.toString()}`;
+    },
+    sortOrder() {
+      let hash = new URLSearchParams(window.location.hash.substring(1));
+      if (this.sortOrder != Sort.Default) hash.set("s", this.OrderToString(this.sortOrder)); else hash.delete("s");
+      window.location.hash = `#${hash.toString()}`;
+    }
+  },
+  mounted() {
+    if (window.location.hash != "") {
+      let params = new URLSearchParams(window.location.hash.substring(1));
+      this.search = params.get("q") || "";
+      this.rarityFilter = this.StringToRarity(params.get("r") || "");
+      this.categoryFilter = this.StringToCategory(params.get("c") || "");
+      this.sortOrder = this.StringToOrder(params.get("s") || "");
     }
   }
 });
