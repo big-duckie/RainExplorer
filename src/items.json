@@ -3,7 +3,7 @@
     "id": 61,
     "name": "Armor-Piercing Rounds",
     "description": "Deal extra damage to bosses.",
-    "info": "Additional damage is 20% of your base damage. Stacks linearly.",
+    "info": "Deal an additional <damage>20%</damage> damage <gray>(+20% per stack)</gray> to bosses.",
     "rarity": 1,
     "categories": [
       1
@@ -22,7 +22,8 @@
   {
     "id": 58,
     "name": "Backup Magazine",
-    "description": "Add +1 charge of your Secondary Skill.",
+    "description": "Add an extra charge of your Secondary skill. ",
+    "info": "Add <utility>+1</utility> <gray>(+1 per stack)</gray> charge of your <utility>Secondary skill</utility>.",
     "rarity": 1,
     "categories": [
       4
@@ -42,6 +43,7 @@
     "id": 91,
     "name": "Bison Steak",
     "description": "Gain 25 max health.",
+    "info": "Increases <heal>maximum health<heal> by <heal>25<heal> <gray>(+25 per stack)</gray>.",
     "rarity": 1,
     "categories": [
       2
@@ -61,7 +63,7 @@
     "id": 42,
     "name": "Bundle of Fireworks",
     "description": "Activating an interactable launches fireworks at nearby enemies.",
-    "info": "Launch 8 fireworks that deal 300% damage. Each additional stack adds 4 more fireworks.",
+    "info": "Activating an interactable <damage>launches 8</damage> <gray>(+4 per stack)</gray> <damage>fireworks</damage> that deal <damage>300%</damage> base damage.",
     "rarity": 1,
     "categories": [
       1
@@ -81,7 +83,7 @@
     "id": 16,
     "name": "Bustling Fungus",
     "description": "Heal all nearby allies after standing still for 1 second.",
-    "info": "The zone heals all allies within 3 meters by 4.5% of your max health. Additional stacks increase the healing by 2.25% and the radius by 1.5 meters.",
+    "info": "After standing still for <heal>1</heal> second, create a zone that <heal>heals</heal> for <heal>4.5%</heal> <gray>(+2.25% per stack)</gray> of your <heal>health</heal> every second to all allies within <heal>3m</heal> <gray>(+1.5m per stack)</gray>.",
     "rarity": 1,
     "categories": [
       2
@@ -107,6 +109,7 @@
     "id": 27,
     "name": "Cautious Slug",
     "description": "Rapidly heal outside of danger.",
+    "info": "Increases <heal>base health regeneration</heal> by <heal>+3 hp/s</heal> <gray>(+3 hp/s per stack)</gray> while outside of combat. ",
     "rarity": 1,
     "categories": [
       2
@@ -126,7 +129,7 @@
     "id": 17,
     "name": "Crowbar",
     "description": "Deal bonus damage to enemies above 90% health.",
-    "info": "Additional damage is 75% of your base damage per stack.",
+    "info": "Deal <damage>+75%</damage> <gray>(+75% per stack)</gray> damage to enemies above <damage>90% health</damage>.",
     "rarity": 1,
     "categories": [
       1
@@ -146,7 +149,7 @@
     "id": -1,
     "name": "Delicate Watch",
     "description": "Deal bonus damage. Breaks at low health.",
-    "info": "Extra damage is 20% per stack. This item breaks if your health is below 25%. If broken it cannot be scrapped.",
+    "info": "Increase damage by <damage>20%</damage> <gray>(+20% per stack)</gray>. Taking damage to below <health>25% health</health> <utility>breaks</utility> this item.",
     "rarity": 1,
     "categories": [
       1
@@ -166,6 +169,7 @@
     "id": 57,
     "name": "Energy Drink",
     "description": "Increase sprint speed by +25%.",
+    "info": "<utility>Sprint speed</utility> is improved by <utility>25%</utility> <gray>(+25% per stack)</gray>.",
     "rarity": 1,
     "categories": [
       4
@@ -185,7 +189,7 @@
     "id": 87,
     "name": "Focus Crystal",
     "description": "Deal bonus damage to nearby enemies.",
-    "info": "The range of the area is 13 meters. Damage is increased by 20% per stack.",
+    "info": "Increase damage to enemies within <damage>13m</damage> by <damage>20%</damage> <gray>(+20% per stack)</gray>.",
     "rarity": 1,
     "categories": [
       1
@@ -205,7 +209,7 @@
     "id": 39,
     "name": "Gasoline",
     "description": "Killing an enemy ignites other nearby enemies.",
-    "info": "The ignition area is 12 meters with each additional stack adding 4 meters. Also increases burn damage by 150% with an additional 75% per stack.",
+    "info": "Killing an enemy <damage>ignites</damage> all enemies within <damage>12m</damage> <gray>(+4m per stack)</gray> for <damage>150%</damage> base damage. Additionally, enemies <damage>burn</damage> for <damage>150%</damage> <gray>(+75% per stack)</gray> base damage.",
     "rarity": 1,
     "categories": [
       1
@@ -242,6 +246,7 @@
     "id": 7,
     "name": "Lens-Maker's Glasses",
     "description": "Gain 10% chance for hits to 'Critically Strike', dealing double damage.",
+    "info": "Your attacks have a <damage>10%</damage> <gray>(+10% per stack)</gray> chance to <damage>'Critically Strike'</damage>, dealing <damage>double damage</damage>.",
     "rarity": 1,
     "categories": [
       1
@@ -261,6 +266,7 @@
     "id": 36,
     "name": "Medkit",
     "description": "Receive a delayed heal after taking damage.",
+    "info": "2 seconds after getting hurt, <heal>heal</heal> for <heal>20</heal> plus an additional <heal>5%</heal> <gray>(+5% per stack)</gray> of <heal>maximum health</heal>.",
     "rarity": 1,
     "categories": [
       2
@@ -280,6 +286,7 @@
     "id": -1,
     "name": "Mocha",
     "description": "Slightly increase attack speed and movement speed.",
+    "info": "Increases <damage>attack speed</damage> by <damage>7.5%</damage> <gray>(+7.5 per stack)</gray> and <utility>movement speed</utility> by <utility>7%</utility> <gray>(+7% per stack)</gray>.",
     "rarity": 1,
     "categories": [
       1,
@@ -306,6 +313,7 @@
     "id": 6,
     "name": "Monster Tooth",
     "description": "Drop a healing orb on kill.",
+    "info": "Killing an enemy spawns a <heal>healing orb</heal> that heals for <heal>8</heal> plus an additional <heal>2%</heal> <gray>(+2% per stack)</gray> of <heal>maximum health</heal>.",
     "rarity": 1,
     "categories": [
       2
@@ -325,6 +333,7 @@
     "id": -1,
     "name": "Oddly-shaped Opal",
     "description": "Reduce damage the first time you are hit.",
+    "info": "<heal>Increase armor</heal> by <heal>100</heal> <gray>(+100 per stack)</gray> while out of danger.",
     "rarity": 1,
     "categories": [
       4
@@ -344,6 +353,7 @@
     "id": 8,
     "name": "Paul's Goat Hoof",
     "description": "Increase movement speed.",
+    "info": "Increases <utility>movement speed</utility> by <utility>14%</utility> <gray>(+14% per stack)</gray>.",
     "rarity": 1,
     "categories": [
       4
@@ -363,6 +373,7 @@
     "id": 29,
     "name": "Personal Shield Generator",
     "description": "Gain a recharging shield.",
+    "info": "Gain a <heal>shield</heal> equal to <heal>8%</heal> <gray>(+8% per stack)</gray> of your maximum health. Recharges outside of danger.",
     "rarity": 1,
     "categories": [
       4
@@ -382,6 +393,7 @@
     "id": -1,
     "name": "Power Elixir",
     "description": "Receive an instant heal at low health. Consumed on use.",
+    "info": "Taking damage to below <health>25% health</health> <utility>consumes</utility> this item, <heal>healing</heal> you for <heal>75%</heal> of <heal>maximum health</heal>.",
     "rarity": 1,
     "categories": [
       2
@@ -401,6 +413,7 @@
     "id": 102,
     "name": "Repulsion Armor Plate",
     "description": "Receive flat damage reduction from all attacks.",
+    "info": "Reduce all <damage>incoming damage</damage> by <damage>5</damage> <gray>(+5 per stack)</gray>. Cannot be reduced below <damage>1</damage>.",
     "rarity": 1,
     "categories": [
       4
@@ -420,6 +433,7 @@
     "id": -1,
     "name": "Roll of Pennies",
     "description": "Gain gold on taking damage.",
+    "info": "Gain <utility>3</utility> <gray>(+3 per stack)</gray> <utility>gold</utility> on <damage>taking damage</damage> from an enemy. <utility>Scales over time</utility>.",
     "rarity": 1,
     "categories": [
       4
@@ -439,6 +453,7 @@
     "id": 60,
     "name": "Rusted Key",
     "description": "Gain access to a Rusty Lockbox that contains a powerful item.",
+    "info": "A <utility>hidden cache</utility> containing an item (<uncommon>80%</uncommon>/<legendary>20%</legendary>) will appear in a random location <utility>on each stage</utility>. Opening the cache <utility>consumes</utility> this item. ",
     "rarity": 1,
     "categories": [
       4
@@ -451,6 +466,7 @@
     "id": 0,
     "name": "Soldier's Syringe",
     "description": "Increase attack speed.",
+    "info": "Increases <damage>attack speed</damage> by <damage>15%</damage> <gray>(+15% per stack)</gray>.",
     "rarity": 1,
     "categories": [
       1
@@ -470,6 +486,7 @@
     "id": 59,
     "name": "Sticky Bomb",
     "description": "Chance on hit to attach a bomb to enemies.",
+    "info": "<damage>5%</damage> <gray>(+5% per stack)</gray> chance on hit to attach a <damage>bomb</damage> to an enemy, detonating for <damage>180%</damage> TOTAL damage.",
     "rarity": 1,
     "categories": [
       1
@@ -489,6 +506,7 @@
     "id": 41,
     "name": "Stun Grenade",
     "description": "Chance to stun on hit.",
+    "info": "<utility>5%</utility> <gray>(+5% on stack)</gray> chance on hit to <utility>stun</utility> enemies for <utility>2 seconds</utility>.",
     "rarity": 1,
     "categories": [
       4
@@ -508,6 +526,7 @@
     "id": 84,
     "name": "Topaz Brooch",
     "description": "Gain a temporary barrier on kill.",
+    "info": "Gain a <heal>temporary barrier</heal> on kill for <heal>15 health</heal> <gray>(+15 per stack)</gray>.",
     "rarity": 1,
     "categories": [
       2,
@@ -528,6 +547,7 @@
     "id": 1,
     "name": "Tougher Times",
     "description": "Chance to block incoming damage.",
+    "info": "<heal>15%</heal> <gray>(+15% per stack)</gray> chance to <heal>block</heal> incoming damage. <utility>Unaffected by luck</utility>.",
     "rarity": 1,
     "categories": [
       4
@@ -547,6 +567,7 @@
     "id": 20,
     "name": "Tri-Tip Dagger",
     "description": "Gain +10% chance to bleed enemies on hit.",
+    "info": "<damage>10%</damage> <gray>(+10% per stack)</gray> chance to <damage>bleed</damage> an enemy for <damage>240%</damage> base damage. ",
     "rarity": 1,
     "categories": [
       1
@@ -566,6 +587,7 @@
     "id": 24,
     "name": "Warbanner",
     "description": "Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.",
+    "info": "On <utility>level up</utility> or starting the <utility>Teleporter event</utility>, drop a banner that strengthens all allies within <utility>16m</utility> <gray>(+8m per stack)</gray>. Raise <damage>attack</damage> and <utility>movement speed</utility> by <damage>30%</damage>.",
     "rarity": 1,
     "categories": [
       4

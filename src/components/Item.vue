@@ -1,8 +1,6 @@
 <template lang="pug">
 .item(@click="$emit('modal', item)")
-  .icon(:data-tooltip="item.name"
-    :data-item="slug"
-    :style="{'--bg-image': `url(${imageURL})`}")
+  img.icon(:data-tooltip="item.name" :data-item="slug" :src="imageURL" onload="this.style.opacity=1")
 </template>
 
 <script lang="ts">
@@ -14,7 +12,7 @@ export default defineComponent({
   name: "Item",
   props: {
     item: {
-      type: ItemClass,
+      type: [ItemClass, Object],
       required: true
     }
   },
@@ -36,16 +34,10 @@ export default defineComponent({
       cursor: pointer !important;
       height: 64px;
       width: 64px;
-      background-size: contain;
-      background-image: var(--bg-image);
-    }
+      object-fit: contain;
 
-    dialog {
-      aside {
-        display: flex;
-        flex-direction: column;
-
-      }
+      transition: opacity 0.25s;
+      opacity: 0;
     }
   }
 </style>

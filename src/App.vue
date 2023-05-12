@@ -7,20 +7,20 @@ header.container
     input(type="text", placeholder="Search...", v-model="search")
     .grid
       select(v-model.number="rarityFilter")
-        each val, index in ["All Rarities", "Common", "Uncommon", "Legendary", "Boss", "Lunar", "Void", "Equipment"]
-          option(value=index)= val
+          each val, index in ["All Rarities", "Common", "Uncommon", "Legendary", "Boss", "Lunar", "Void", "Equipment"]
+            option(value=index)= val
       select(v-model.number="categoryFilter")
-        each val, index in ["All Categories", "Damage", "Healing", "Scrap", "Utility"]
-          option(value=index)= val
+          each val, index in ["All Categories", "Damage", "Healing", "Scrap", "Utility"]
+            option(value=index)= val
       select(v-model.number="sortOrder")
-        each val, index in ["Default", "A-Z"]
-          option(value=index)= val
+          each val, index in ["Default", "A-Z"]
+            option(value=index)= val
 
 main.container
   .main-grid
     Item(v-for="item in searchItems", :item="item", @modal="(i) => {focusedItem = i; modalActive = true;}")
 
-Modal(:item="focusedItem", :open="modalActive", @close="modalActive = false")
+Modal(:item="focusedItem", :visible="modalActive", @close="modalActive = false")
 
 footer.container
   .grid
@@ -77,12 +77,12 @@ export default defineComponent({
     },
     searchItems(): Array<ItemClass> {
       const search = normalizeString(this.search).split(",")
-          .map(term => term.trim())
-          .filter(term => term.length > 0);
+        .map(term => term.trim())
+        .filter(term => term.length > 0);
 
       return this.sortedItems.filter((item: ItemClass) => {
         return (this.rarityFilter == Rarity.All || item.rarity == this.rarityFilter) && (this.categoryFilter == Category.All || item.categories.indexOf(this.categoryFilter) != -1) &&
-            search.length == 0 || search.some((term: string) => normalizeString(item.name).includes(term));
+          search.length == 0 || search.some((term: string) => normalizeString(item.name).includes(term));
       })
     },
   },
@@ -92,21 +92,21 @@ export default defineComponent({
       return Rarity[rarity].toString();
     },
     StringToRarity(str: string): Rarity {
-      return (Object.keys(Rarity).includes(str)) ? (<any>Rarity)[<any> str] : Rarity.All;
+      return (Object.keys(Rarity).includes(str)) ? (<any>Rarity)[<any>str] : Rarity.All;
     },
     CategoryToString(category: Category): string {
       // On compile rarity becomes a number.
       return Category[category].toString();
     },
     StringToCategory(str: string): Category {
-      return (Object.keys(Category).includes(str)) ? (<any>Category)[<any> str] : Category.All;
+      return (Object.keys(Category).includes(str)) ? (<any>Category)[<any>str] : Category.All;
     },
     OrderToString(order: Sort): string {
       // On compile rarity becomes a number.
       return Sort[order].toString();
     },
-    StringToOrder(str: string): Sort{
-      return (Object.keys(Sort).includes(str)) ? (<any>Sort)[<any> str] : Sort.Default;
+    StringToOrder(str: string): Sort {
+      return (Object.keys(Sort).includes(str)) ? (<any>Sort)[<any>str] : Sort.Default;
     },
   },
   watch: {
@@ -180,5 +180,31 @@ footer {
       text-align: right;
     }
   }
+}
+</style>
+
+<style lang="scss">
+gray {
+  color: rgb(137, 144, 167);
+}
+
+damage {
+  color: rgb(229, 201, 98);
+}
+
+utility {
+  color: rgb(149, 205, 229);
+}
+
+heal {
+  color: rgb(156, 229, 98);
+}
+
+health {
+  color: rgb(229, 130, 98);
+}
+
+void {
+  color: rgb(237, 127, 205);
 }
 </style>

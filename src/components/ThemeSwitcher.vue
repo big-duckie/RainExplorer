@@ -21,6 +21,10 @@ export default defineComponent({
 
 <style scoped lang="scss">
 button {
+  animation: fadeIn ease 0.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+
   position: fixed;
   bottom: var(--spacing);
   right: calc(var(--spacing) + var(--scrollbar-width, 0px));
@@ -57,6 +61,16 @@ button {
     &::after {
       transform: rotate(180deg);
     }
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
   }
 }
 </style>
