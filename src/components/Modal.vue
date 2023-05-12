@@ -36,7 +36,7 @@ export default defineComponent({
     }
   },
   watch: {
-    visible(newVisible: Boolean, oldVisible: Boolean) {
+    visible(newVisible: Boolean) {
       if (newVisible) {
         this.openModal();
       } else {
