@@ -29,7 +29,7 @@ export default defineComponent({
   },
   computed: {
     wikiLink(): string {
-      return `https://riskofrain2.fandom.com/wiki/${this.item.name}`;
+      return `https://riskofrain2.wiki.gg/wiki/${this.item.name}`;
     },
     imageURL(): string {
       return new URL(`/src/assets/images/items/${this.item.slug}.png`, import.meta.url).href;
